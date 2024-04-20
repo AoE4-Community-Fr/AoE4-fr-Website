@@ -76,11 +76,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Patch',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/AoE4-Community-Fr/AoE4-fr-Website',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,38 +92,34 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Patch',
                 to: '/docs/patch-10.1.48',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Communauté',
             items: [
-              {
+              /* {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+              }, */
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.com/invite/56JC8MH7qN',
               },
-              {
+              /* {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
-              },
+              }, */
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/AoE4-Community-Fr/AoE4-fr-Website',
               },
             ],
           },
