@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkao_e_4_fr_website=self.webpackChunkao_e_4_fr_website||[]).push([[1840],{664:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/AoE4-fr-Website/blog/tags/facebook","allTagsPath":"/AoE4-fr-Website/blog/tags","count":1,"unlisted":false}')}}]);
