@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Age of Empire IV : Communauté Française',
+  tagline: 'Le site d\'actu sur Age of Empire IV en français',
+  favicon: 'img/AoE4.ico',
 
   // Set the production url of your site here
   url: 'https://aoe4-community-fr.github.io',
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'AoE IV : Fr',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
