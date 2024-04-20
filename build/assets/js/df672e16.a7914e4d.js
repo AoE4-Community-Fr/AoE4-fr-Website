@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkao_e_4_fr_website=self.webpackChunkao_e_4_fr_website||[]).push([[8778],{3375:e=>{e.exports=JSON.parse('{"permalink":"/AoE4-fr-Website/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

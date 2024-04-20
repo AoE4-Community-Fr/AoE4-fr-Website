@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkao_e_4_fr_website=self.webpackChunkao_e_4_fr_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/AoE4-fr-Website/blog","blogTitle":"Blog"}')}}]);
