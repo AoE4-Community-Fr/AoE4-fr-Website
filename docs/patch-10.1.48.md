@@ -58,19 +58,19 @@ sidebar_position: 1
 
 ### Byzantins
 
-* Increased the Mercenary Contract research time from 0 to 10 seconds to allow for adjustment in case of a mis-click.  
-* Dromon Food cost reduced from 110 to 100.
+* Augmentation du temps de recherche du contrat de mercenaire de 0 à 10 secondes pour permettre un ajustement en cas de mauvais clic.  
+* Réduction du coût de la nourriture de Dromon de 110 à 100.
 
 ### Anglais
 
-* Campfire has been removed from the Man-at-Arms and can now be found on the Scout.
-* Campfire now shines brighter with an increase in sight from 3 to 5 tiles.
-* Campfire now has team color on the minimap.
-* Abbey of Kings Landmark now automatically queues a free King upon completion of the Landmark.
-* Berkshire Palace Landmark weapon range bonus reduced from 15 tiles to 14.5 tiles.
-* Wynguard Palace Landmark
-    - Wynguard Footman cost changed from 200 Food, 500 Gold to 300 Food, 400 Gold.
-    - Ranger and Footman train time reduced from 50 to 45 seconds.
+* Le feu de camp a été retiré de l'homme d'armes et se trouve désormais sur l'éclaireur.
+* Le feu de camp brille maintenant plus fort avec une augmentation de la vue de 3 à 5 tuiles.
+* Le feu de camp a maintenant la couleur de l'équipe sur la minimap.
+* Le repère de l'Abbaye des rois met désormais automatiquement en file d'attente un roi gratuit à l'achèvement du repère.
+* Le bonus de portée des armes du du palais du Berkshire a été réduit de 15 à 14,5 tuiles.
+* Point de repère du palais de la Wynguard
+    - Le coût du fantassin Wynguard passe de 200 Nourritures, 500 Or à 300 Nourritures, 400 Or.
+    - Le temps de formation des Rangers et des Fantassins est passé de 50 à 45 secondes.
 
 ### Français
 
