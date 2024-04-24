@@ -64,11 +64,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/AoE_share_card.jpg',
+      image: 'img/AoE_share_card.png',
       navbar: {
         title: 'AoE IV : France',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo AoE4',
           src: 'img/logo.svg',
         },
         items: [
