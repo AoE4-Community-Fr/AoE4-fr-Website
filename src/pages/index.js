@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <Layout
       title={`Accueil`}
-      description="Description will go into a meta tag in <head />">
+      description="Le site de la communauté Age of Empire IV France">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
