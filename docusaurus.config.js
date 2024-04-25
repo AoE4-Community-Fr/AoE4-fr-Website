@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/AoE4-Community-Fr/AoE4-fr-Website/blob/master',
         },
         /*blog: {
           showReadingTime: true,
@@ -65,6 +65,7 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/AoE_share_card.png',
+      description: '',
       navbar: {
         title: 'AoE IV : France',
         logo: {
@@ -79,8 +80,8 @@ const config = {
             label: 'Patch',
           },
           {
-            href: 'https://github.com/AoE4-Community-Fr/AoE4-fr-Website',
-            label: 'GitHub',
+            href: 'https://discord.com/invite/56JC8MH7qN',
+            label: 'Discord',
             position: 'right',
           },
         ],
