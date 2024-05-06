@@ -31,6 +31,10 @@
 
 .hero__title {
   font-size: calc(0.75em + 3vw);
+  font-family: maiola,serif;
+  font-weight: 700;
+  color: #ffdf91;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.6);
 }
 
 .hero__subtitle {
