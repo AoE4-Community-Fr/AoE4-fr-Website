@@ -8,7 +8,7 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -17,11 +17,13 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons} >
+          
           <Link
             className="button button--secondary button--lg"
-            to="https://discord.com/invite/56JC8MH7qN"
-            color='white'> 
-            Le Discord 
+            to="https://discord.com/invite/56JC8MH7qN">
+            
+            <img src="/AoE4-fr-Website/img/discord-logo.png" alt="Discord" width="1em" height="1em"/>
+            Le discord
           </Link>
         </div>
       </div>
@@ -30,7 +32,7 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`Accueil`}
