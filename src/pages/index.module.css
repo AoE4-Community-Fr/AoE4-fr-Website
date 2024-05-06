@@ -15,3 +15,10 @@
 
   }
 }
+
+.buttons--lg {
+  display: flex;
+  font-size: calc(0.1 + 1vw);
+  align-items: center;
+  justify-content: center;
+}

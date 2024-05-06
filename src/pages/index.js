@@ -16,13 +16,13 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons} >
+        <div className={styles.buttons} class="centered-element">
           
           <Link
             className="button button--secondary button--lg"
             to="https://discord.com/invite/56JC8MH7qN">
             
-            <img src="/AoE4-fr-Website/img/discord-logo.png" alt="Discord" width="1em" height="1em"/>
+            <img src="/AoE4-fr-Website/img/discord-logo.png" alt="Discord" width="50vw"/>
             Le discord
           </Link>
         </div>
