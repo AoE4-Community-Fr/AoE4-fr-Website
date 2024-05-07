@@ -94,8 +94,9 @@ h2 {
   color: white;
 }
 
-.footer__link-item:hover, .table-of-contents__link:hover {
+.footer__link-item:hover, .table-of-contents__link:hover, .pagination-nav__link:hover {
   color: #ffdf91;
+  border-color: #ffdf91;
 }
 
 .centered-element{
