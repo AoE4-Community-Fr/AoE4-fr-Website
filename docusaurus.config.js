@@ -93,7 +93,7 @@ const config = {
             title: 'Ressources',
             items: [
               {
-                label: 'Patch',
+                label: 'Dernier patch note',
                 to: '/docs/patch-10.1.48',
               },
             ],
