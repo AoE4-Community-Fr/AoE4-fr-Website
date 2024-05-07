@@ -130,8 +130,10 @@ De plus, le mode Nomade partagera un tableau de classement avec le mode Standard
 * L'IA ottomane ne désactive plus la production d'écoles militaires.
 * L'IA facile ne produit plus plus qu'un seul éclaireur.
 
-:::note
+:::info[Note des développeurs]
+
 Nous avons constaté que l'IA facile est parfois trop efficace dans l'utilisation des éclaireurs pour explorer et prendre des moutons dans cette difficulté. Nous espérons que ce changement permettra aux joueurs d'avoir plus de chances de capturer des moutons lorsqu'ils explorent la carte.
+
 :::
 
 * Ajustement de la façon dont l'IA facile et intermédiaire choisit de passer à l'âge suivant.
@@ -142,8 +144,11 @@ Nous avons constaté que l'IA facile est parfois trop efficace dans l'utilisatio
 * L'IA intermédiaire ne peut plus rechercher que des technologies économiques de niveau 1 et 2.
 * L'IA intermédiaire peut désormais effectuer des recherches sur les technologies de forge de niveau 1 et 2.
 * L'IA difficile peut désormais effectuer des recherches sur toutes les technologies économiques.
-:::note
+
+:::info[Note des développeurs]
+
 les IA faciles et intermédiaires ont été ajustées pour aider les joueurs à augmenter la difficulté. Auparavant, l'IA facile progressait trop lentement, tandis que l'IA intermédiaire progressait trop rapidement. De plus, l'IA intermédiaire effectuait beaucoup plus de recherches sur les forgerons, l'économie et d'autres technologies que l'IA facile. Ces changements visent à créer une progression plus naturelle de la difficulté.
+
 :::
 
 ### Audio
@@ -314,7 +319,9 @@ Pour les problèmes connus, veuillez consulter [cette page](https://support.ageo
 
 ## Ce qui se profile à l'horizon 
 ### A venir...
-:::info
+:::warning
+
 Veuillez noter que cette liste est susceptible d'être modifiée et ne doit pas être considérée comme une liste exhaustive de tous les problèmes connus que nous suivons. Elle a pour but de vous informer des priorités actuelles de l'équipe, qui changeront au fur et à mesure que d'autres problèmes surviendront ou prendront le dessus.
 Pour les dernières mises à jour et annonces, veuillez consulter nos canaux sociaux.
+
 :::
