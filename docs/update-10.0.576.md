@@ -15,21 +15,21 @@ Le printemps est enfin là et quel meilleur moment pour un événement saisonnie
 
 | Défi              | Comment débloquer la récompense                                                                                                                               |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chevalerie        | 🔒 Produire 300 chevaliers en escarmouche ou en multijoueur.  🧱 Monument - Un buste de chevalier                                                               |
-| Un jour faste     | 🔒 Jouez 3 matchs d'escarmouche ou multijoueurs.  🧱 Forme de la bannière des armoiries - Bannière de tournoi                                                   |
-| Tous les gagnants | 🔒 Gagner une escarmouche ou un match multijoueur.  🧱 Sigil de la bannière des armoiries - Laurel                                                              |
-| Blindé            | 🔒 Terminez toutes les améliorations d'armure chez le forgeron lors d'une escarmouche ou d'un match multijoueur.   🧱 Armoiries Bannière Sigil Cadre - Cuirasse |
-| Diamants          | 🔒 Construisez 10 camps miniers dans les matchs d'escarmouche ou multijoueurs.   🧱 Motif de la bannière des armoiries - Diamants                               |
-| Roses             | 🔒 Récolter de la nourriture à partir de baies 100 fois en escarmouche ou en match multijoueur.   🧱 Sigle de la bannière des armoiries - Rose                  |
-| Mêlée             | 🔒 Éliminez 250 unités militaires ennemies avec de l'infanterie de mêlée dans des matchs d'escarmouche ou multijoueurs.  🏆 Portrait - Mêlée                    |
+| Chevalerie        | 🔒 Produire 300 chevaliers en escarmouche ou en multijoueur.<br/>🧱 Monument - Un buste de chevalier                                                               |
+| Un jour faste     | 🔒 Jouez 3 matchs d'escarmouche ou multijoueurs.<br/>🧱 Forme de la bannière des armoiries - Bannière de tournoi                                                   |
+| Tous les gagnants | 🔒 Gagner une escarmouche ou un match multijoueur.<br/>🧱 Sigil de la bannière des armoiries - Laurel                                                              |
+| Blindé            | 🔒 Terminez toutes les améliorations d'armure chez le forgeron lors d'une escarmouche ou d'un match multijoueur.<br/>🧱 Armoiries Bannière Sigil Cadre - Cuirasse  |
+| Diamants          | 🔒 Construisez 10 camps miniers dans les matchs d'escarmouche ou multijoueurs.<br/>🧱 Motif de la bannière des armoiries - Diamants                                |
+| Roses             | 🔒 Récolter de la nourriture à partir de baies 100 fois en escarmouche ou en match multijoueur.<br/>🧱 Sigle de la bannière des armoiries - Rose                   |
+| Mêlée             | 🔒 Éliminez 250 unités militaires ennemies avec de l'infanterie de mêlée dans des matchs d'escarmouche ou multijoueurs.<br/>🏆 Portrait - Mêlée                    |
 
 ### Récompenses de connexion
 
 | Défi            | Comment débloquer                                                                                                   |
 |-----------------|---------------------------------------------------------------------------------------------------------------------|
-| La Joute        | 🔒 Se connecter 21 mai - 30 mai  🏆 Portrait - Un chevalier à cheval armé d'une lance.                                |
-| Lance           | 🔒 Se connecter du 31 mai au 8 juin  🧱 Sigil des armoiries - Une lance de joute ornée.                               |
-| Le mois de mai  | 🔒 Se connecter 9 juin - 18 juin  🏆 Portrait - Un mois de mai signifiant le retour d'une heureuse saison de chaleur. |
+| La Joute        | 🔒 Se connecter 21 mai - 30 mai<br/>🏆 Portrait - Un chevalier à cheval armé d'une lance.                                |
+| Lance           | 🔒 Se connecter du 31 mai au 8 juin<br/>🧱 Sigil des armoiries - Une lance de joute ornée.                               |
+| Le mois de mai  | 🔒 Se connecter 9 juin - 18 juin<br/>🏆 Portrait - Un mois de mai signifiant le retour d'une heureuse saison de chaleur. |
 
 ### Classement de la saison 7
 
