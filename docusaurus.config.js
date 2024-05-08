@@ -87,7 +87,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Ressources',
@@ -125,7 +125,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AoE4-fr-Website, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AoE4 Community Fr. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -42,15 +42,19 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.footer__link-item 
+
+.footer__link-item {
+  color: black;
+}
+
 [data-theme='dark'] .footer__link-item {
   color: white;
 }
 
 
-.footer__link-item:hover 
+.footer__link-item:hover, 
 [data-theme='dark'] .footer__link-item:hover {
-  color: #ffdf91;
+  color: var(--color-text);
 }
 
 .hero__title,
@@ -102,7 +106,7 @@ h2 {
 .navbar-sidebar__back:hover,
 .navbar__title:hover,
 .breadcrumbs__link:hover,
-.table-of-contents__link {
+.table-of-contents__link  {
   color: black;
 }
 
