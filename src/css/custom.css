@@ -26,7 +26,11 @@
   --ifm-color-primary-light: #1a1f2d;
   --ifm-color-primary-lighter: #1c202f;
   --ifm-color-primary-lightest: #1f2435;
+  --ifm-menu-color: #ffdf91;
   --ifm-link-color: #ffdf91;
+  --ifm-navbar-link-color: #ffdf91;
+  --ifm-menu-color-active: #ffdf91;
+  --ifm-navbar-link-hover-color: #ffdf91;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -47,6 +51,8 @@
 }
 
 [data-theme='dark'] .menu__link,
+.navbar__link,
+.navbar__link--active,
 .navbar__item,
 .navbar-sidebar__back,
 .navbar__title,
@@ -64,6 +70,7 @@ h2 {
 }
 
 [data-theme='dark'] .menu__link:hover,
+.navbar__link:hover,
 .navbar__item:hover,
 .navbar-sidebar__back:hover,
 .navbar__title:hover,
@@ -72,6 +79,16 @@ h2 {
 .navbar__title:hover,
 .breadcrumbs__link:hover {
   color: white;
+}
+
+
+.footer__link-item, .table-of-contents__link {
+  color: white;
+}
+
+.footer__link-item:hover, .table-of-contents__link:hover, .pagination-nav__link:hover {
+  color: #ffdf91;
+  border-color: #ffdf91;
 }
 
 .button,
@@ -90,17 +107,11 @@ h2 {
   color: white;
 }
 
-.footer__link-item, .table-of-contents__link {
-  color: white;
-}
-
-.footer__link-item:hover, .table-of-contents__link:hover, .pagination-nav__link:hover {
-  color: #ffdf91;
-  border-color: #ffdf91;
-}
-
 .centered-element{
   margin-left: auto;
   margin-right: auto;
   width: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
