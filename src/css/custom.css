@@ -6,51 +6,63 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
+  --ifm-color-primary: #ffffff;
+  --ifm-color-primary-dark: #b9fffc;
+  --ifm-color-primary-darker: #a1fffb;
+  --ifm-color-primary-darkest: #57fff7;
+  --ifm-color-primary-light: #ffffff;
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #ffffff;
+  --color-text: #bd9739;
+  --ifm-menu-color: var(--color-text);
+  --ifm-link-color: var(--color-text);
+  --ifm-navbar-link-color: var(--color-text);
+  --ifm-menu-color-active: var(--color-text);
+  --ifm-navbar-link-hover-color: var(--color-text);
+  --ifm-breadcrumb-color-active: var(--color-text);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #181c29;
+  --ifm-color-primary: ##1b1b1d;
   --ifm-color-primary-dark: #161925;
   --ifm-color-primary-darker: #141823;
   --ifm-color-primary-darkest: #11141d;
   --ifm-color-primary-light: #1a1f2d;
   --ifm-color-primary-lighter: #1c202f;
   --ifm-color-primary-lightest: #1f2435;
-  --ifm-menu-color: #ffdf91;
-  --ifm-link-color: #ffdf91;
-  --ifm-navbar-link-color: #ffdf91;
-  --ifm-menu-color-active: #ffdf91;
-  --ifm-navbar-link-hover-color: #ffdf91;
+  --color-text: #ffdf91;
+  --ifm-menu-color: var(--color-text);
+  --ifm-link-color: var(--color-text);
+  --ifm-navbar-link-color: var(--color-text);
+  --ifm-menu-color-active: var(--color-text);
+  --ifm-navbar-link-hover-color: var(--color-text);
+  --ifm-breadcrumb-color-active: var(--color-text);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.footer__link-item {
+  color: #ffdf91;
+}
+
+.hero__title,
+.hero__subtitle {
+  font-family: maiola, serif;
+  font-weight: 700;
+  color: var(--color-text);
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, .6);
 }
 
 .hero__title {
   font-size: calc(0.75em + 3vw);
-  font-family: maiola, serif;
-  font-weight: 700;
-  color: #ffdf91;
-  text-shadow: 1px 1px 0 rgba(0, 0, 0, .6);
 }
 
 .hero__subtitle {
   font-size: calc(0.75em + 1vw);
-  font-family: maiola, serif;
-  font-weight: 700;
-  color: #ffdf91;
-  text-shadow: 1px 1px 0 rgba(0, 0, 0, .6);
 }
 
-[data-theme='dark'] .menu__link,
+.menu__link,
 .navbar__link,
 .navbar__link--active,
 .navbar__item,
@@ -60,36 +72,92 @@ h1,
 h2 {
   font-family: maiola, serif;
   font-weight: 700;
-  color: #ffdf91;
+  color: var(--color-text);
 }
 
-[data-theme='dark'] .breadcrumbs__link {
+.breadcrumbs__item,
+.breadcrumbs__link,
+.breadcrumbs__item--active {
   font-family: maiola, serif;
   font-weight: 400;
-  color: #ffdf91;
+  color: var(--color-text);
 }
 
-[data-theme='dark'] .menu__link:hover,
+.footer__link-item:hover,
+.table-of-contents__link:hover,
+.pagination-nav__link:hover {
+  color: var(--color-text);
+  border-color: var(--color-text);
+}
+
+.menu__link:hover,
 .navbar__link:hover,
 .navbar__item:hover,
 .navbar-sidebar__back:hover,
 .navbar__title:hover,
 .breadcrumbs__link:hover,
-.navbar_item:hover,
-.navbar__title:hover,
-.breadcrumbs__link:hover {
+.table-of-contents__link {
+  color: black;
+}
+
+
+
+[data-theme='dark'] .hero__title,
+[data-theme='dark'] .hero__subtitle {
+  font-family: maiola, serif;
+  font-weight: 700;
+  color: var(--color-text);
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, .6);
+}
+
+[data-theme='dark'] .hero__title {
+  font-size: calc(0.75em + 3vw);
+}
+
+[data-theme='dark'] .hero__subtitle {
+  font-size: calc(0.75em + 1vw);
+}
+
+[data-theme='dark'] .menu__link,
+[data-theme='dark'] .navbar__link,
+[data-theme='dark'] .navbar__link--active,
+[data-theme='dark'] .navbar__item,
+[data-theme='dark'] .navbar-sidebar__back,
+[data-theme='dark'] .navbar__title,
+[data-theme='dark'] h1,
+[data-theme='dark'] h2 {
+  font-family: maiola, serif;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+[data-theme='dark'] .breadcrumbs__item,
+[data-theme='dark'] .breadcrumbs__link,
+[data-theme='dark'] .breadcrumbs__item--active {
+  font-family: maiola, serif;
+  font-weight: 400;
+  color: var(--color-text);
+}
+
+[data-theme='dark'] .footer__link-item:hover,
+[data-theme='dark'] .table-of-contents__link:hover,
+[data-theme='dark'] .pagination-nav__link:hover {
+  color: var(--color-text);
+  border-color: var(--color-text);
+}
+
+[data-theme='dark'] .menu__link:hover,
+[data-theme='dark'] .navbar__link:hover,
+[data-theme='dark'] .navbar__item:hover,
+[data-theme='dark'] .navbar-sidebar__back:hover,
+[data-theme='dark'] .navbar__title:hover,
+[data-theme='dark'] .breadcrumbs__link:hover,
+[data-theme='dark'] .footer__link-item,
+[data-theme='dark'] .table-of-contents__link {
   color: white;
 }
 
 
-.footer__link-item, .table-of-contents__link {
-  color: white;
-}
-
-.footer__link-item:hover, .table-of-contents__link:hover, .pagination-nav__link:hover {
-  color: #ffdf91;
-  border-color: #ffdf91;
-}
 
 .button,
 .button--secondary,
@@ -107,7 +175,7 @@ h2 {
   color: white;
 }
 
-.centered-element{
+.centered-element {
   margin-left: auto;
   margin-right: auto;
   width: 120px;
