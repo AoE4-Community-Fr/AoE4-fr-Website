@@ -14,7 +14,7 @@ const Carousel = (props) => {
 
     const next = () => {
         if (currentIndex < (length - 1)) {
-            setCurrentIndex(prevState => prevState + 1)
+            setCurrentIndex(prevState => (prevState + 1)%(length))
         }
     }
     
