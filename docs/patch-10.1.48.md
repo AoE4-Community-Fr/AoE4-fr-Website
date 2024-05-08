@@ -1,6 +1,6 @@
 # Patch 10.1.48
 
-![Patch-banner](https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Patch-1920x1080-1-768x432.webp)
+![Patch-banner](https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Patch-1920x1080-1-1080x608.webp)
 
 ## Gameplay
 
