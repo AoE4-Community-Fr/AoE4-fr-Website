@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: 'Le guide pour débutant sur Age of Empire IV'
 ---
 
 # Introduction

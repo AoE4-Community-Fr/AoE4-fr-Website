@@ -15,7 +15,7 @@ Une autre catégorie de “ressource” existe au sein du jeu. Elle est nommée 
 ## La nourriture
 ![mouton](/img/guide/src-food.png)
 
-Pour **la nourriture**, vous pouvez récolter grâce à **vos villageois les baies, les poissons côtiers, les fermes** (issues d’une construction), **les moutons, les cerfs et les sangliers**. Vous pouvez également récolter de la nourriture grâce à **vos bâteaux de pêche** qui peuvent collecter **les poissons de rives** ou encore les **poissons de pleine eau**. **Chacune des ressources en nourriture possède un taux de collecte différent**, c’est-à-dire, que vous récolterez plus rapidement la nourriture venant d’un sanglier que venant d’un mouton par exemple (voir partie sur [les rendements](.) pour plus de détail)
+Pour **la nourriture**, vous pouvez récolter grâce à **vos villageois les baies, les poissons côtiers, les fermes** (issues d’une construction), **les moutons, les cerfs et les sangliers**. Vous pouvez également récolter de la nourriture grâce à **vos bâteaux de pêche** qui peuvent collecter **les poissons de rives** ou encore les **poissons de pleine eau**. **Chacune des ressources en nourriture possède un taux de collecte différent**, c’est-à-dire, que vous récolterez plus rapidement la nourriture venant d’un sanglier que venant d’un mouton par exemple (voir partie sur [les rendements](../economy#rendement) pour plus de détail)
 
 
 ## Le bois, l'or, la pierre
