@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -60,7 +60,7 @@ const config = {
     ],
   ],
 
-  themeConfig:      
+  themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
@@ -80,9 +80,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'patch',
             position: 'left',
             label: 'Patch',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'guide',
+            position: 'left',
+            label: 'Guide débutant',
           },
           {
             href: 'https://discord.com/invite/56JC8MH7qN',
@@ -99,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Dernier patch note',
-                to: '/docs/patch-10.1.48',
+                to: '/patch/',
               },
             ],
           },
