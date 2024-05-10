@@ -1,5 +1,6 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
+description: Savoir distinguer les différents type de carte
 ---
 
 # Les cartes

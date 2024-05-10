@@ -1,12 +1,13 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
+description: Les différentes civilisations du jeu
 ---
 
-# Les civilizations
+# Les civilisations
 
 ![civilization-flag](/img/guide/civ.png)
 
-Il existe actuellement **10 civilisations** dans le jeu Age of Empires IV plus **2 civilizations** et **4 variantes de civilizations** dans le **DLC The Sultan Ascend**. Les Ottomans, les Français, le Saint Empire Romain (communément appelés HRE), les Dehli, les Maliens, les Chinois, les Abbassides, les Anglais, les Rus’ et les Mongols (par ordre d’apparition de gauche à droite puis de bas en haut sur l’image 5).
+Il existe actuellement **10 civilisations** dans le jeu Age of Empires IV plus **2 civilisations** et **4 variantes de civilisations** dans le **DLC The Sultan Ascend**. Les Ottomans, les Français, le Saint Empire Romain (communément appelés HRE), les Dehli, les Maliens, les Chinois, les Abbassides, les Anglais, les Rus’ et les Mongols (par ordre d’apparition de gauche à droite puis de bas en haut sur l’image 5).
 
 **Toutes les civilisations sont basées sur le même tronc commun** tel que les centres-villes ou la création de villageois. Cependant, **chaque civilisation possède des spécificités** en ce qui concerne leurs **taux de collecte de ressources**, leurs **bâtiments**, leurs **unités** …etc. Ces spécificités rendent les civilisations **uniques** et leurs Gameplay très différents. Cette mécanique de jeu permet d’apporter une nouveauté dans chacune des parties et de créer cette fameuse originalité que nous offre le jeu Age of Empires IV.
 

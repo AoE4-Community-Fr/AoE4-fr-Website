@@ -43,8 +43,7 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/AoE4-Community-Fr/AoE4-fr-Website/blob/master',
+          // editUrl: 'https://github.com/AoE4-Community-Fr/AoE4-fr-Website/blob/master',
         },
         /*blog: {
           showReadingTime: true,

@@ -1,5 +1,6 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
+description: Découvrez les différents modes de jeu
 ---
 
 # Les modes de jeu
