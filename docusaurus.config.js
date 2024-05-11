@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Dernier patch note',
-                to: '/docs/patch/',
+                to: '/docs/patch/patch-10.1.48',
               },
               {
                 label: 'Guide pour débutant',
