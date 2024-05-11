@@ -23,9 +23,8 @@ const config = {
   organizationName: 'AoE4-Community-Fr', // Usually your GitHub org/user name.
   projectName: 'AoE4-fr-Website', // Usually your repo name.
 
-  // onBrokenLinks: 'throw',
-  onBrokenLinks: 'warn',  
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'throw', 
+  onBrokenMarkdownLinks: 'throw', // 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -105,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Dernier patch note',
-                to: '/docs/patch/patch-10.1.48',
+                to: '/docs/patch/',
               },
               {
                 label: 'Guide pour débutant',
