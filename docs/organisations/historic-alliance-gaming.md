@@ -14,4 +14,4 @@ description: Association e-sport autour de Âge of Empire IV
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8UqePTRnkxjJMoSWtkW51g)
 [![Twitter](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HAGTV_Official)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hagtv_official/)
-[![Instagram](https://img.shields.io/badge/Donation-00AACC?style=for-the-badge&logo=streamlabs&logoColor=white)](https://streamlabs.com/hagtv_official/tip)
+[![Donation](https://img.shields.io/badge/Donation-00AACC?style=for-the-badge&logo=streamlabs&logoColor=white)](https://streamlabs.com/hagtv_official/tip)
