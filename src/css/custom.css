@@ -49,17 +49,13 @@
   height: 100vh;
 }
 
-.news {
-  p {
-    color: black;
-  }
+.subtext-news {
+  color: black;
 }
 
-[data-theme='dark'] .news
+[data-theme='dark'] .subtext-news
 {
-  p {
     color: white;
-  }
 }
 
 .newsBox {

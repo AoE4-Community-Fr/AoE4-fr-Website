@@ -55,7 +55,7 @@ function News({ img, title, description, url }) {
         <img src={img} alt="placeholder" className='img-news'/>
         <div className='text-news'>
           <Heading as="h2">{title}</Heading>
-          <p>{description}</p>
+          <p className='subtext-news'>{description}</p>
         </div>
       </div>
     </Link>
