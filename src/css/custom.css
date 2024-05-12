@@ -50,22 +50,35 @@
 }
 
 .news {
-  padding: 1px;
-  
-  border-radius:2rem;
-	-webkit-border-radius:2rem;
-	-moz-border-radius:2rem;
+  p {
+    color: black;
+  }
+}
 
+[data-theme='dark'] .news
+{
   p {
     color: white;
   }
 }
 
 .newsBox {
-  background-color: var(--color-text);
-  border-radius:2rem;
-	-webkit-border-radius:2rem;
-	-moz-border-radius:2rem;
+  border: 1px solid var(--color-text);
+  text-decoration: none;
+}
+
+.newsBox:hover {
+  text-decoration: none;
+}
+
+.img-news {
+  border-bottom-style: solid;
+  border-width: 1px;
+}
+
+.text-news {
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .footer__link-item {
