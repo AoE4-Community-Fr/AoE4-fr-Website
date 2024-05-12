@@ -1,4 +1,3 @@
-import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Carousel from "../Carousel/Carousel"
@@ -35,17 +34,6 @@ const NewsList = [
     ),
     url: '/docs/patch/update-10.0.576',
   },
-  /*{
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
-  */
 ];
 
 function News({ img, title, description, url }) {
@@ -67,11 +55,6 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div style={{ maxWidth: 1200, marginLeft: 'auto', marginRight: 'auto', marginTop: 64, marginBottom: 64 }}>
         <Carousel>
-          {/*
-          <img src="https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Patch-1920x1080-1-768x432.webp" alt="placeholder" />
-          <img src="https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Spring-Tournies-Update-1920x1080-1-1080x608.webp" alt="placeholder" />
-          <img src="https://via.placeholder.com/1600x300" alt="placeholder" />
-  */}
           {NewsList.map((props, idx) => (
             <News key={idx} {...props} />
           ))}
