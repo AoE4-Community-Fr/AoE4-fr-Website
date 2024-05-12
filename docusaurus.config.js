@@ -23,7 +23,7 @@ const config = {
   organizationName: 'AoE4-Community-Fr', // Usually your GitHub org/user name.
   projectName: 'AoE4-fr-Website', // Usually your repo name.
 
-  onBrokenLinks: 'throw', 
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn', // 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -88,7 +88,13 @@ const config = {
             position: 'left',
             label: 'Guide débutant',
           },
-          {to: 'blog', label: 'Evénements', position: 'left'},
+          { to: 'blog', label: 'Evénements', position: 'left' },
+          { 
+            type: 'docSidebar',
+            sidebarId: 'organisations', 
+            position: 'left',
+            label: 'Organisations', 
+          },
           {
             href: 'https://discord.com/invite/56JC8MH7qN',
             label: 'Discord',
