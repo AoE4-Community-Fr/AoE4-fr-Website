@@ -45,13 +45,12 @@ const config = {
           // Remove this to remove the "edit this page" links.
           // editUrl: 'https://github.com/AoE4-Community-Fr/AoE4-fr-Website/blob/master',
         },
-        /*blog: {
+        blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },*/
+          // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -89,6 +88,7 @@ const config = {
             position: 'left',
             label: 'Guide débutant',
           },
+          {to: 'blog', label: 'Evénements', position: 'left'},
           {
             href: 'https://discord.com/invite/56JC8MH7qN',
             label: 'Discord',
