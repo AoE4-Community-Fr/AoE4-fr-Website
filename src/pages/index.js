@@ -22,7 +22,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="https://discord.com/invite/56JC8MH7qN">
             
-            <img src="/AoE4-fr-Website/img/discord-logo.png" alt="Discord" width="50vw"/>
+            <img src="/img/discord-logo.png" alt="Discord" width="50vw"/>
             Le discord
           </Link>
         </div>
