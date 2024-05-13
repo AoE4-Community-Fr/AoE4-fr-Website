@@ -18,6 +18,13 @@
     margin-left: 80px;
     margin-right: 80px;
   }
+
+  @media screen and (max-width: 996px) {
+    .carousel-content-wrapper {
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+  }
   
   .carousel-content {
     display: flex;

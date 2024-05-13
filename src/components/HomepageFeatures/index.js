@@ -53,7 +53,7 @@ function News({ img, title, description, url }) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
-      <div style={{ maxWidth: 1200, marginLeft: 'auto', marginRight: 'auto', marginTop: 64, marginBottom: 64 }}>
+      <div style={{ maxWidth: 1200, marginLeft: 'auto', marginRight: 'auto', marginTop: 0, marginBottom: 64 }}>
         <Carousel>
           {NewsList.map((props, idx) => (
             <News key={idx} {...props} />
