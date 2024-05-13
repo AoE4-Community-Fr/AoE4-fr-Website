@@ -1,13 +1,14 @@
 ---
 title: Historic Alliance Gaming
 description: Association e-sport autour de Âge of Empire IV
+sidebar_position: 1
 ---
 
 #
 
 
-![bannier](/img/hag/Banniere_HAG.png)
-![team](/img/hag/team.png)
+![bannier](/img/organisations/hag/Banniere_HAG.png)
+![team](/img/organisations/hag/team.png)
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/HAGTV_Official)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TachzZpvqu)
