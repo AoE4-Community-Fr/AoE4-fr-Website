@@ -6,7 +6,7 @@ import Link from '@docusaurus/Link';
 const NewsList = [
   {
     title: 'M8 Marinelord vs Wam01',
-    img: '/img/hag/MLvsWAM-12-05-2024.png',
+    img: '/img/organisations/hag/MLvsWAM-12-05-2024.png',
     description: (
       <>
         Duel au sommet entre deux des meilleurs joueurs du monde.
