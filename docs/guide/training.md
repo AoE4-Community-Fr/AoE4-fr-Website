@@ -36,3 +36,7 @@ Vous pouvez rejoindre le **discord communautaire Age of Empires IV France** afin
 
 Vous pouvez retrouver des outils vous permettant de vous perfectionner grâce à ce lien, n’hésitez pas à les essayer : [Outils : AoE4 World](https://aoe4world.com/tools)
 
+Vous pouvez également retrouver  le créateur principal de ce guide, Jeando sur : 
+[Discord](https://discord.gg/GDktUn8WSU),
+[Youtube](https://www.youtube.com/@jeandogaming)
+et [Twitch](https://www.twitch.tv/jeandomusic)
