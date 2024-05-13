@@ -95,6 +95,12 @@ const config = {
             position: 'left',
             label: 'Organisations', 
           },
+          { 
+            type: 'docSidebar',
+            sidebarId: 'creators', 
+            position: 'left',
+            label: 'Créateurs', 
+          },
           {
             href: 'https://discord.com/invite/56JC8MH7qN',
             label: 'Discord',

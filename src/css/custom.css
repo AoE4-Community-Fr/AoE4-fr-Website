@@ -77,6 +77,22 @@
   margin-right: 5%;
 }
 
+.icone-creator {
+  width: 70px;
+  height: 70px;
+  transform: translateY(-30px), translateX(-30px);
+  border-radius: 45px;
+}
+
+.text-creator {
+  transform: translateY(-65px);
+  margin-left: 90px;
+}
+
+.card-creator {
+  height: 140px;
+}
+
 .footer__link-item {
   color: black;
 }
