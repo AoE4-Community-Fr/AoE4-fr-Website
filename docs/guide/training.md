@@ -39,4 +39,4 @@ Vous pouvez retrouver des outils vous permettant de vous perfectionner grâce à
 Vous pouvez également retrouver  le créateur principal de ce guide, Jeando sur : 
 [Discord](https://discord.gg/GDktUn8WSU),
 [Youtube](https://www.youtube.com/@jeandogaming)
-et [Twitch](https://www.twitch.tv/jeandomusic)
+et [Twitch](https://twitch.tv/jeandotv)
