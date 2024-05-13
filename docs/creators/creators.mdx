@@ -3,25 +3,31 @@ title: Créateurs de contenu
 ---
 
 export const ButtonCreator = ({ logo, name, description }) => (
-    <section class="row list_node_modules-@docusaurus-theme-classic-lib-theme-DocCategoryGeneratedIndexPage-styles-module">
-        <article class="col col--6 margin-bottom--lg">
-            <a
-                class="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module card-creator"
-                href={"/docs/creators/".concat(name.toLowerCase())}>
-                <img src={logo} alt='logo' className="icone-creator"></img>
-                <div className="text-creator">
-                    <h2 class="text--truncate cardTitle_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module" title={name}>
-                        {name}
-                    </h2>
-                    <p class="text--truncate cardDescription_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module" title="Créateur de contenu et grand voyageur">
-                        {description}
-                    </p>
-                </div>
-            </a>
-        </article>
-    </section>
+    <article class="colonne-creator col col--6 margin-bottom--lg">
+        <a class="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module card-creator"
+            href={"/docs/creators/".concat(name.toLowerCase())}>
+            <img decoding="async" loading="lazy" src={logo} alt='logo' className="icone-creator img_ev3q"></img>
+            <div className="text-creator">
+                <h2 class="text--truncate cardTitle_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module"
+                    title={name}>
+                    {name}
+                </h2>
+                <p class="text--truncate cardDescription_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module"
+                    title="Créateur de contenu et grand voyageur">
+                    {description}
+                </p>
+            </div>
+        </a>
+    </article>
 );
-
+    
 # Créateurs de contenu
+<article class="margin-top--lg">
+<section class="list-creator row list_node_modules-@docusaurus-theme-classic-lib-theme-DocCategoryGeneratedIndexPage-styles-module">
+    <ButtonCreator logo={"/img/creators/Zuka/logo.png"} name={"Zuka"} description={"Passionné de jeux-vidéo et de RTS"} />
+    <ButtonCreator logo={"/img/creators/The_Eternal/logo.png"} name={"The_Eternal"} description={"Joueur passioné de RTS "} />
 
-<ButtonCreator logo={"/img/creators/LtCloFlam/logo.png"} name={"LtCloFlam"} description={"Streamer, Youtuber et Voyageur"} />
+    <ButtonCreator logo={"/img/creators/LtCloFlam/logo.png"} name={"LtCloFlam"} description={"Streamer, Youtuber et Voyageur"} />
+</section>
+
+</article>

@@ -39,7 +39,9 @@ const sidebars = {
         id: 'creators/creators',
       },
        items: [
-        'creators/ltcloflam'
+        'creators/zuka',
+        'creators/the_eternal',
+        'creators/ltcloflam',
        ],
     }
   ],
