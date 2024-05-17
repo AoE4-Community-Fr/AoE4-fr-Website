@@ -67,7 +67,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       // Replace with your project's social card
-      image: 'img/AoE_share_card.png',
+      image: 'img/AoE_share_card.jpg',
       description: '',
       navbar: {
         title: 'AoE IV : France',
