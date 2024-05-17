@@ -67,13 +67,15 @@ const config = {
         respectPrefersColorScheme: true,
       },
       // Replace with your project's social card
-      image: '/img/AoE_share_card.png',
+      image: 'img/AoE_share_card.png',
       description: '',
       navbar: {
         title: 'AoE IV : France',
         logo: {
           alt: 'Logo AoE4',
           src: 'img/logo.svg',
+          width: 32,
+          height: 32,
         },
         items: [
           {
