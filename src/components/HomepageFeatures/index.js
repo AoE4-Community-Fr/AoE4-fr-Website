@@ -5,14 +5,14 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
-    title: 'M8 Marinelord vs Wam01',
-    img: '/img/organisations/hag/MLvsWAM-12-05-2024.png',
+    title: 'Master of Realm',
+    img: '/img/organisations/hag/MOR_WEEKEND_2.png',
     description: (
       <>
-        Duel au sommet entre deux des meilleurs joueurs du monde.
+        Retrouvez les qualifacations pour le tournoi S-tier casté en français par HAG
       </>
     ),
-    url: '/blog/ml-vs-wam-12-05-2024',
+    url: '/blog/master-of-realms',
   },
   {
     title: 'Nouveau patch',
