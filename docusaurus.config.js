@@ -84,12 +84,12 @@ const config = {
             position: 'left',
             label: 'Patch',
           },
-          {
+          /*{
             type: 'docSidebar',
             sidebarId: 'guide',
             position: 'left',
             label: 'Guide débutant',
-          },
+          },*/
           { to: 'blog', label: 'Evénements', position: 'left' },
           { 
             type: 'docSidebar',
@@ -120,10 +120,10 @@ const config = {
                 label: 'Dernier patch note',
                 to: '/docs/patch/patch-10.1.48',
               },
-              {
+              /*{
                 label: 'Guide pour débutant',
                 to: '/docs/guide/introduction',
-              },
+              },*/
             ],
           },
           {
