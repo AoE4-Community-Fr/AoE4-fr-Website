@@ -77,19 +77,20 @@
   margin-right: 5%;
 }
 
-.icone-creator {
-  width: 70px;
-  height: 70px;
+.icone-img-button {
+  width: 110px;
+  height: 110px;
   transform: translateY(-30px), translateX(-30px);
-  border-radius: 45px;
+  border-radius: 55px;
 }
 
-.text-creator {
-  transform: translateY(-70px);
-  margin-left: 90px;
+.text-img-button {
+  transform: translateY(-87px);
+  margin-left: 130px;
 }
 
-.card-creator {
+.card-img-button {
+  padding: 1rem !important;
   height: 140px;
   --ifm-link-color: var(--ifm-color-emphasis-800);
   --ifm-link-hover-color: var(--ifm-color-emphasis-700);
@@ -100,7 +101,7 @@
   transition-property: border, box-shadow;
 }
 
-.card-creator:hover {
+.card-img-button:hover {
   border: 1px solid white;
 }
 
