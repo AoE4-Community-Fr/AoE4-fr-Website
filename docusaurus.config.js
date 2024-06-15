@@ -56,6 +56,29 @@ const config = {
         },
       }),
     ],
+    
+  ],
+
+  plugins: [
+
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'patch',
+        routeBasePath: 'patch',
+        path: './patch/',
+
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'event',
+        routeBasePath: 'event',
+        path: './event/',
+
+      },
+    ],
   ],
 
   themeConfig:
@@ -78,19 +101,20 @@ const config = {
           height: 32,
         },
         items: [
-          {
+          { to: 'patch', label: 'Patch', position: 'left' },
+          /*{
             type: 'docSidebar',
             sidebarId: 'patch',
             position: 'left',
             label: 'Patch',
-          },
+          },*/
           /*{
             type: 'docSidebar',
             sidebarId: 'guide',
             position: 'left',
             label: 'Guide débutant',
           },*/
-          { to: 'blog', label: 'Evénements', position: 'left' },
+          { to: 'event', label: 'Evénements', position: 'left' },
           { 
             type: 'docSidebar',
             sidebarId: 'organisations', 

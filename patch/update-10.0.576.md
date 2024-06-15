@@ -1,3 +1,7 @@
+---
+date: 2024-03-19
+---
+
 # Saison 7 : Mise à jour 10.0.576 
 
 ![Update-banner](https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Spring-Tournies-Update-1920x1080-1-1080x608.webp)
