@@ -5,14 +5,14 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
-    title: 'Master of Realm',
-    img: '/img/organisations/hag/MOR_WEEKEND_2.png',
+    title: 'Un coup d\'œil sur le programme de HAG',
+    img: '/img/organisations/hag/Teasing_3_events.png',
     description: (
       <>
-        Retrouvez les qualifacations pour le tournoi S-tier casté en français par HAG
+        Teasing de ce qui se prépare au mois de juin et de juillet
       </>
     ),
-    url: '/event/master-of-realms',
+    url: '/event/anonce-hag-event-juin-juillet',
   },
   {
     title: 'Nouveau patch',
