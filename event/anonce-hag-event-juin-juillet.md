@@ -1,5 +1,6 @@
 ---
 title: Teasing des mois de juin et de juillet
+description: FFA, Showmatch et tournoi
 authors: hag
 ---
 
