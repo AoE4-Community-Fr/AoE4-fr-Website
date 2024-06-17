@@ -102,12 +102,6 @@ const config = {
         },
         items: [
           { to: 'patch', label: 'Patch', position: 'left' },
-          {
-            type: 'docSidebar',
-            sidebarId: 'guide',
-            position: 'left',
-            label: 'Guide débutant',
-          },
           { to: 'event', label: 'Evénements', position: 'left' },
           { 
             type: 'docSidebar',
@@ -138,10 +132,10 @@ const config = {
                 label: 'Dernier patch note',
                 to: '/patch',
               },
-              {
+              /*{
                 label: 'Guide pour débutant',
                 to: '/docs/guide/introduction',
-              },
+              },*/
             ],
           },
           {
