@@ -5,11 +5,11 @@ authors: hag
 ---
 
 ## FFA
-Retrouver deux parties Free For All (chacun pour soi) le **20 juin** sur les maps chachette et migration. <br/>
+Retrouver deux parties Free For All (chacun pour soi) le **20 juin** sur les maps cachette et migration. <br/>
 Le tout bien entendue casté par HAGTV : https://www.twitch.tv/HAGTV_Official
 
 ## Showmatch
-Retrouver un showmatch le **28 juin** entre deux equipe de choc.<br/>
+Retrouver un showmatch le **28 juin** entre deux équipes de choc.<br/>
  * Lyralia et Valdemar **VS** Jeando et Elyona
 
 A retrouver bien sûr sur HAGTV : https://www.twitch.tv/HAGTV_Official
