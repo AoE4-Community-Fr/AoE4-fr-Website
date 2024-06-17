@@ -12,7 +12,7 @@ const NewsList = [
         Retrouvez les qualifacations pour le tournoi S-tier casté en français par HAG
       </>
     ),
-    url: '/blog/master-of-realms',
+    url: '/event/master-of-realms',
   },
   {
     title: 'Nouveau patch',
@@ -22,7 +22,7 @@ const NewsList = [
         Un nouveau correctif est sorti résolvant des bugs et des correction d'équilibrage.
       </>
     ),
-    url: '/docs/patch/patch-10.1.48',
+    url: '/patch/patch-10.1.48',
   },
   {
     title: 'Mise à jour de la saison 7',
@@ -32,7 +32,7 @@ const NewsList = [
         Le patch de la saison 7 est sorti avec du nouveau contenu et des changements d'équilibrage
       </>
     ),
-    url: '/docs/patch/update-10.0.576',
+    url: '/patch/update-10.0.576',
   },
 ];
 

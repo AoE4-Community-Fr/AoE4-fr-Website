@@ -102,18 +102,12 @@ const config = {
         },
         items: [
           { to: 'patch', label: 'Patch', position: 'left' },
-          /*{
-            type: 'docSidebar',
-            sidebarId: 'patch',
-            position: 'left',
-            label: 'Patch',
-          },*/
-          /*{
+          {
             type: 'docSidebar',
             sidebarId: 'guide',
             position: 'left',
             label: 'Guide débutant',
-          },*/
+          },
           { to: 'event', label: 'Evénements', position: 'left' },
           { 
             type: 'docSidebar',
@@ -142,29 +136,25 @@ const config = {
             items: [
               {
                 label: 'Dernier patch note',
-                to: '/docs/patch/patch-10.1.48',
+                to: '/patch',
               },
-              /*{
+              {
                 label: 'Guide pour débutant',
                 to: '/docs/guide/introduction',
-              },*/
+              },
             ],
           },
           {
             title: 'Communauté',
             items: [
-              /* {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              }, */
               {
                 label: 'Discord',
                 href: 'https://discord.com/invite/56JC8MH7qN',
               },
-              /* {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              }, */
+              {
+                label: 'AoE4 World',
+                href: 'https://aoe4world.com/',
+              },
             ],
           },
           {
