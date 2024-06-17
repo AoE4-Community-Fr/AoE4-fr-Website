@@ -80,12 +80,13 @@
 .icone-img-button {
   width: 110px;
   height: 110px;
+  border: 2px solid var(--color-text);
   transform: translateY(-30px), translateX(-30px);
   border-radius: 55px;
 }
 
 .text-img-button {
-  transform: translateY(-87px);
+  transform: translateY(-95px);
   margin-left: 130px;
 }
 
@@ -254,3 +255,18 @@ h2 {
   justify-content: center;
   align-items: center;
 }
+
+.video-responsive { 
+  overflow:hidden; 
+  padding-bottom:56.25%; 
+  position:relative; 
+  height:0;
+  }
+  
+  .video-responsive iframe {
+  left:0; 
+  top:0; 
+  height:100%;
+  width:100%;
+  position:absolute;
+  }
