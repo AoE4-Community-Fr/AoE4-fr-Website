@@ -5,6 +5,16 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
+    title: 'FFA de conquérant',
+    img: '/img/organisations/hag/Affiche_FFA_1.png',
+    description: (
+      <>
+        FFA casté par HAG, où participe des joueurs de haut niveau
+      </>
+    ),
+    url: '/event/FFA-20-juin',
+  },
+  {
     title: 'Un coup d\'œil sur le programme de HAG',
     img: '/img/organisations/hag/Teasing_3_events.png',
     description: (
@@ -23,16 +33,6 @@ const NewsList = [
       </>
     ),
     url: '/patch/patch-10.1.48',
-  },
-  {
-    title: 'Mise à jour de la saison 7',
-    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Spring-Tournies-Update-1920x1080-1-1080x608.webp',
-    description: (
-      <>
-        Le patch de la saison 7 est sorti avec du nouveau contenu et des changements d'équilibrage
-      </>
-    ),
-    url: '/patch/update-10.0.576',
   },
 ];
 
