@@ -5,6 +5,16 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
+    title: '2v2 Elyona & Jeando VS Valdemar & Lyralia',
+    img: '/img/organisations/hag/2v2-28-juin.jpg',
+    description: (
+      <>
+        L'affrontement qui mix streamers et joueurs semi-pro
+      </>
+    ),
+    url: '/event/2v2-28-Juin',
+  },
+  {
     title: 'Tournoi FFA avec le mod Battleground',
     img: '/img/organisations/battleground/FFA.png',
     description: (
@@ -23,17 +33,7 @@ const NewsList = [
       </>
     ),
     url: '/event/anonce-hag-event-juin-juillet',
-  },
-  {
-    title: 'Nouveau patch',
-    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Patch-1920x1080-1-1080x608.webp',
-    description: (
-      <>
-        Un nouveau correctif est sorti résolvant des bugs et des correction d'équilibrage.
-      </>
-    ),
-    url: '/patch/patch-10.1.48',
-  },
+  }
 ];
 
 function News({ img, title, description, url }) {
