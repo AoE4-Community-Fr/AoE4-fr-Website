@@ -17,4 +17,12 @@ Vous y retrouverez les braves combattants :
 
 Et tout ça le **20 juin à 20h00** sur HAGTV : https://www.twitch.tv/HAGTV_Official
 
+<details> 
+  <summary>Score final</summary>
+    <div>
+        <b>Vanderdorf</b> remporte la victoire sur la carte migration<br/>
+        <b>Naheulbeuk</b> gagne sur la carte cachette
+    </div>
+</details>
+
 ![FFA](/img/organisations/hag/Affiche_FFA_1.png)

@@ -5,14 +5,14 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
-    title: 'FFA de conquérant',
-    img: '/img/organisations/hag/Affiche_FFA_1.png',
+    title: 'Tournoi FFA avec le mod Battleground',
+    img: '/img/organisations/battleground/FFA.png',
     description: (
       <>
-        FFA casté par HAG, où participe des joueurs de haut niveau
+        Un tournoi au format FFA avec le mod Battleground
       </>
     ),
-    url: '/event/FFA-20-juin',
+    url: '/event/FFA-Battlegrounds',
   },
   {
     title: 'Un coup d\'œil sur le programme de HAG',
