@@ -50,12 +50,7 @@ Les 3 joueurs ayant obtenu le plus de points seront déclarés vainqueurs et rec
 
 
 ## Inscription :
-Les inscriptions sont ouvertes à tous, dans la limite de 32 joueurs, la seule condition étant
-un niveau d'anglais écrit très basique. Tous les joueurs devront s'inscrire sur le discord d'AoE Battlegrounds : https://discord.gg/VN2Cqxr9bn
-dans le canal dédié ( #registration dans la catégorie " Tavern's Tourney " ), et seront acceptés par ordre chronologique jusqu'à ce que la limite de joueurs soit atteinte.
-dans l'ordre chronologique jusqu'à ce que la limite de joueurs soit atteinte. Chaque participant doit utiliser le même compte
-pour la durée du tournoi, qui sera demandé lors de l'inscription ainsi que le choix de la
-le choix des civilisations du joueur pour l'épreuve qualificative (qui ne pourra plus être modifié par la suite).
+Les inscriptions seront ouvertes à tous, dans la limite de 32 joueurs, la seule exigence étant un niveau d'anglais écrit très basique. Tous les joueurs devront s'inscrire sur le discord d'AoE Battlegrounds dans le canal dédié ( #registration dans la catégorie " Tavern's Tourney " ), et seront acceptés par ordre chronologique jusqu'à ce que la limite de joueurs soit atteinte. Chaque participant doit utiliser le même compte pendant toute la durée du tournoi, ce qui sera demandé lors de l'inscription ainsi que le choix des civilisations pour l'événement de qualification (et ne pourra pas être modifié par la suite)
 Plus d'informations seront disponibles lors de #registration (merci de lire les consignes avant de vous inscrire).
 
 ## Procédures :
