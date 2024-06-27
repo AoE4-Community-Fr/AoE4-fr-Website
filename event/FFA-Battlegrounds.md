@@ -58,15 +58,10 @@ Plus d'informations seront disponibles lors de #registration (merci de lire les 
 ### Consignes :
 
 Tous les participants doivent respecter les règles ( voir chapitre Règles [ci-dessous](#règles) ) et le code de conduite ( voir chapitre [ci-dessous](#code-de-conduite ) pendant toute la durée du tournoi, sous peine de sanctions allant de la perte de quelques points à la disqualification et au remplacement par une IA.
-Tout joueur témoin d'une violation des règles ou du code de conduite du tournoi aura le devoir de le signaler à l'arbitre.
-aura le devoir de le signaler aux organisateurs avec les captures d'écran nécessaires comme preuve.
+Tout joueur témoin d'une violation des règles ou du code de conduite du tournoi aura le devoir de le signaler aux organisateurs avec les captures d'écran nécessaires comme preuve.
 Chaque lobby sera créé et paramétré par les organisateurs, puis un participant sera désigné comme hôte.
 Si l'un des paramètres du lobby est modifié, le participant hôte sera disqualifié.
-À la fin de chaque match, les joueurs devront envoyer une capture d'écran des résultats de leur lobby
-affichant tous les noms, rangs et civilisations de tous les joueurs. Au moins 2 captures d'écran différentes
-(de joueurs différents) des résultats de chaque bracket seront exigées après chaque round. Si un
-bracket ne fournit pas ces 2 captures d'écran, tous les joueurs de ce bracket perdront 1 point.
-Une pause de 15 minutes sera prise entre les rounds 2 et 3 de chaque étape.
+À la fin de chaque match, les joueurs devront envoyer une capture d'écran des résultats de leur lobby affichant tous les noms, rangs et civilisations de tous les joueurs. Au moins 2 captures d'écran différentes (de joueurs différents) des résultats de chaque bracket seront exigées après chaque round. Si un bracket ne fournit pas ces 2 captures d'écran, tous les joueurs de ce bracket perdront 1 point. Une pause de 15 minutes sera prise entre les rounds 2 et 3 de chaque étape.
 Tout joueur en retard ou qui ralentit inutilement le processus global, pour quelque raison que ce soit, sera pénalisé.
 
 ### Étape 1 Qualifications 16 – 32 joueurs
