@@ -244,7 +244,7 @@ cette valeur ne s'applique qu'aux navires de pêche et aux démos. Les dégâts 
 * Le coût de l'Atakebune est réduit de 170 Nourriture 220 Bois 220 Or à 100 Nourriture 220 Bois 220 Or.
 * Les dégâts de la roquette d'Atakebune passent de 30 à 40.
 * Les points de vie de Yumi Ashigaru Feudal passent de 60 à 65.
-* Le coût de Tatara est passé de 75 Gold 25 Stone à 50 Gold 25 Stone.
+* Le coût de Tatara est passé de 75 Or 25 Pierre à 50 Or 25 Pierre.
 * Le canton de Koka bénéficie désormais de l'Académie militaire.
 * Correction de la sélection sur certains bâtiments japonais où les limites de la sélection s'étendaient au-delà de son empreinte.
 
@@ -260,7 +260,7 @@ Ceci est en accord avec les changements apportés à la nourriture des moutons.
 :::
 
 * Mangudai <br/>
-  - Coût réduit de 120 Food 40 Gold à 90 Food 60 Gold. Le coût de double production est réduit de 160 à 150 pierres.
+  - Coût réduit de 120 Nourritures 40 Or à 90 Nourritures 60 Or. Le coût de double production est réduit de 160 à 150 pierres.
   - La durée du train est passée de 30 à 28 secondes.
 * Centre de ville secondaire
   - Le coût du centre ville est réduit de 900 Bois à 850 Bois.
