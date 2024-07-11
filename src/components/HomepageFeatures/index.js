@@ -5,6 +5,16 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
+    title: 'Le patch note de la saison 8',
+    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/07/S8_Update_Banner-1-1080x608.webp',
+    description: (
+      <>
+        Retrouvez toutes les nouveautés de la saison 8!
+      </>
+    ),
+    url: '/patch/update-11.0.782',
+  },
+  {
     title: '2v2 Elyona & Jeando VS Valdemar & Lyralia',
     img: '/img/organisations/hag/2v2-28-juin.jpg',
     description: (
