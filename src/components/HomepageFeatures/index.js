@@ -15,26 +15,6 @@ const NewsList = [
     url: '/patch/update-11.0.782',
   },
   {
-    title: '2v2 Elyona & Jeando VS Valdemar & Lyralia',
-    img: '/img/organisations/hag/2v2-28-juin.jpg',
-    description: (
-      <>
-        L'affrontement qui mix streamers et joueurs semi-pro
-      </>
-    ),
-    url: '/event/2v2-28-Juin',
-  },
-  {
-    title: 'Tournoi FFA avec le mod Battleground',
-    img: '/img/organisations/battleground/FFA.png',
-    description: (
-      <>
-        Un tournoi au format FFA avec le mod Battleground
-      </>
-    ),
-    url: '/event/FFA-Battlegrounds',
-  },
-  {
     title: 'Un coup d\'œil sur le programme de HAG',
     img: '/img/organisations/hag/Teasing_3_events.png',
     description: (
