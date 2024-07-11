@@ -19,7 +19,7 @@ De plus vous devez aussi éviter que vos villageois soit innactif aussi dit **id
 
 ## Gerer les attaques
 
-Ont as vite tendance à paniquer quand on se fait attaquer, mais il faut éviter cela et éviter l'usage du bouton cloche sur le centre ville. 
+Ont as vite tendance à paniquer quand on se fait attaquer, mais il faut éviter cela et éviter l'usage du bouton cloche sur le centre ville.
 
 [bouton cloche]
 
