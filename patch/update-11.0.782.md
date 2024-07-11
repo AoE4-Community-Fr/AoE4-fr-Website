@@ -315,8 +315,8 @@ Les changements suivants ne s'appliquent qu'aux versions variantes des civilisat
 Voilà qui conclut tout ce que nous avons en réserve pour vous dans cette mise à jour. Gardez l'œil ouvert pour notre prochain patch, que nous prévoyons de publier quelques semaines après la fin des qualifications du Red Bull Wololo : El Reinado. Nous avons beaucoup d'autres changements à venir et nous sommes impatients de les mettre entre vos mains. Voici un aperçu de ce que nous vous réservons pour notre prochaine mise à jour :
 
 * Une refonte complète du système de primes Rus'.
-* La Pierres à cerfs donneront accès à une nouvelle unité, les Chasseurs de Khan.
-* La Maison de l'apprentissage recevra de nouvelles technologies intéressantes.
+* La Pierres à cerfs donne accès à une nouvelle unité, les Chasseurs de Khan.
+* La Maison du savoir recevra de nouvelles technologies intéressantes.
 * Un rafraîchissement du pool de cartes à la mi-saison.
 * De nombreux autres ajustements d'équilibrage.
 
