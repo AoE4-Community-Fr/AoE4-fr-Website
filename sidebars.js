@@ -36,8 +36,8 @@ const sidebars = {
             id: 'guide/fondamentaux/economie/economie',
           },
           items: [
-            'guide/fondamentaux/economie/ressource',
             'guide/fondamentaux/economie/villageois',
+            'guide/fondamentaux/economie/ressource',
             'guide/fondamentaux/economie/centre-ville',
             'guide/fondamentaux/economie/trade'
 
