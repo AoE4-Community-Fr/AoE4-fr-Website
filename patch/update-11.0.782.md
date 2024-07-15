@@ -31,7 +31,7 @@ Il est temps de prendre le soleil, la saison 8 du classement va être brûlante 
 
 ## Rotation du pool de cartes
 
-Nous avons mis à jour nos cartes pour le début de la huitième saison classée ! Plongez et préparez-vous à la victoire ! Rendez-vous sur l'échelle !
+Nous avons mis à jour nos cartes pour le début de la huitième saison classée ! Plongez et préparez-vous à la victoire !
 
 ### 1v1 Ranked Map Pool 
 
@@ -82,12 +82,13 @@ Nous avons modifié le comportement par défaut du mouvement d'attaque, afin d'�
 
 ### Campagne
 
-* Correction d'un problème qui faisait qu'en sautant une scène de la campagne, la carte pouvait être brièvement révélée lors du prochain match sans campagne.
+* Correction d'un problème qui faisait qu'en sautant une scène de la campagne, la carte pouvait être brièvement révélée lors du prochain match hors campagne.
 
 ### Touches de raccourci
 
 * L'utilisation de la combinaison de touches de raccourci pour construire plusieurs unités en file d'attente (shift + Q par défaut) dans la maison des mercenaires byzantins fonctionne à nouveau.
-* Les moines derviches et guerriers ne sont plus sélectionnés avec les raccourcis militaires. Les éclaireurs ne sont plus sélectionnés avec les raccourcis militaires.
+* Les derviches et moines guerriers ne sont plus sélectionnés avec les raccourcis militaires.
+* Les éclaireurs ne sont plus sélectionnés avec les raccourcis militaires.
   - Exception notée : l'éclaireur guerrier malien.
 
 ### UX/UI et menus (toutes les plateformes)
@@ -95,9 +96,9 @@ Nous avons modifié le comportement par défaut du mouvement d'attaque, afin d'�
 * La capacité de population atteinte ne sera affichée qu'une seule fois, même si plusieurs unités sont produites en même temps.
 * Ajout d'un pool de cartes Free-for-All et possibilité de spécifier les vetos de cartes dans ce pool.
 
-### Localisation
+### Traduction
 
-* Nous avons apporté quelques mises à jour supplémentaires à la localisation japonaise.
+* Nous avons apporté quelques mises à jour supplémentaires à la traduction japonaise.
 * Correction d'une chaîne non traduite en finnois pour le titre du succès "Du Bois are back in town".
 
 ## Maps 
@@ -177,7 +178,7 @@ Le nouveau comportement par défaut du déplacement d'attaque traite toujours le
 * Tir chauffé
   - Les navires archers passent désormais à des effets de flèches incendiaires après avoir effectué une recherche sur le tir chauffé. Représentation visuelle de l'amélioration uniquement.
 * Ligne de vue des bateaux de pêche réduite de 25%.
-* Le temps de train des bateaux de pêche passe de 25 à 30 secondes.
+* Le temps d'entraînement des bateaux de pêche passe de 25 à 30 secondes.
 * Dynastie des Abbassides et des Ayyubides : Les quais n'indiquent plus que la portée de l'aura de guérison.
 
 ## Changements spécifiques aux civilisations 
@@ -196,7 +197,7 @@ Le nouveau comportement par défaut du déplacement d'attaque traite toujours le
 cette valeur ne s'applique qu'aux navires de pêche et aux démos. Les dégâts contre les navires et bâtiments militaires restent inchangés.
 :::
 
-* Correction d'un problème où les flacons de pèlerin se chevauchaient avec le mur de bouclier sur Limitanei lorsque vous jouiez sur la console Xbox avec le clavier et la souris.  
+* Correction d'un problème où les flacons de pèlerin se chevauchaient avec le mur de bouclier du Limitanei lorsque vous jouiez sur la console Xbox avec le clavier et la souris.  
 * L'huile d'olive est correctement déposée lorsqu'un villageois qui la transporte est en garnison.
 
 ### Chinois
@@ -219,19 +220,19 @@ cette valeur ne s'applique qu'aux navires de pêche et aux démos. Les dégâts 
 
 ### Anglais
 
-* Le temps de train du roi est passé de 35 à 50 secondes.
+* Le temps d'entraînement du roi est passé de 35 à 50 secondes.
 * La vitesse de production de la Tour Blanche est réduite de 100% à 75%.
 
 ### Français
 
 * Les centres-villes fonctionnent 10/15/20/25% plus vite par âge, au lieu de 15/15/20/25%.
 * L'influence du Palais Rouge est augmentée de +1 tuile pour correspondre à celle des donjons normaux. 
-* Le tir d'artillerie a été retravaillé : <br/>
-  Capacité ciblée qui augmente la portée du canon de +5 tuiles et les dégâts de +30% pour un tir.
-  Ne peut cibler que les bâtiments.
-  Peut cibler et tirer dans le brouillard de guerre.
-  Révèle l'emplacement du tir à travers le brouillard pendant 3 secondes.
-  Temps de recharge de 200 secondes.
+* Le tir d'artillerie a été retravaillé : 
+  - Capacité ciblée qui augmente la portée du canon de +5 tuiles et les dégâts de +30% pour un tir.
+  - Ne peut cibler que les bâtiments.
+  - Peut cibler et tirer dans le brouillard de guerre.
+  - Révèle l'emplacement du tir à travers le brouillard pendant 3 secondes.
+  - Temps de recharge de 200 secondes.
 
 ### Saint Empire Romain Germanique
 
@@ -239,13 +240,13 @@ cette valeur ne s'applique qu'aux navires de pêche et aux démos. Les dégâts 
 
 ### Japonais
 
-* Le temps d'incantation du Shinobi clignotant est réduit de 0,85 à 0,4.
+* Le temps d'incantation du Shinobi métamorphe est réduit de 0,85 à 0,4.
 * Temps d'incantation de Sabotage du Shinobi réduit de 2 à 1,25.
 * Le coût de l'Atakebune est réduit de 170 Nourriture 220 Bois 220 Or à 100 Nourriture 220 Bois 220 Or.
-* Les dégâts de la roquette d'Atakebune passent de 30 à 40.
-* Les points de vie de Yumi Ashigaru Feudal passent de 60 à 65.
+* Les dégâts de la roquette de l'Atakebune passent de 30 à 40.
+* Les points de vie de Yumi Ashigaru féodal passent de 60 à 65.
 * Le coût de Tatara est passé de 75 Or 25 Pierre à 50 Or 25 Pierre.
-* Le canton de Koka bénéficie désormais de l'Académie militaire.
+* La commune de Koka bénéficie désormais de l'Académie militaire.
 * Correction de la sélection sur certains bâtiments japonais où les limites de la sélection s'étendaient au-delà de son empreinte.
 
 ### Mongols
@@ -261,7 +262,7 @@ Ceci est en accord avec les changements apportés à la nourriture des moutons.
 
 * Mangudai <br/>
   - Coût réduit de 120 Nourritures 40 Or à 90 Nourritures 60 Or. Le coût de double production est réduit de 160 à 150 pierres.
-  - La durée du train est passée de 30 à 28 secondes.
+  - La durée d'entraînement  est passée de 30 à 28 secondes.
 * Centre de ville secondaire
   - Le coût du centre ville est réduit de 900 Bois à 850 Bois.
 * L'armure à distance du cavalier primitif passe de 1 à 2.
@@ -278,7 +279,7 @@ Ceci est en accord avec les changements apportés à la nourriture des moutons.
 * Le monument de l'Observatoire impérial d'Istanbul s'applique désormais aux Grandes Galères.
 
 ### Rus
-* La durée du train du bateau de pêche Lodya est passée à 46 secondes.
+* La durée d'entraînement du bateau de pêche Lodya est passée à 46 secondes.
 
 ### Changements dans les civilisations variantes
 Les changements suivants ne s'appliquent qu'aux versions variantes des civilisations classiques. Les civilisations variantes partagent la plupart des changements apportés à leur civilisation mère, énumérés ci-dessus. 
