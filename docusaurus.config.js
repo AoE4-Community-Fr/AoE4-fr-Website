@@ -102,6 +102,12 @@ const config = {
         },
         items: [
           { to: 'patch', label: 'Patch', position: 'left' },
+          {
+            type: 'docSidebar',
+            sidebarId: 'guide',
+            position: 'left',
+            label: 'Guide',
+          },
           { to: 'event', label: 'Evénements', position: 'left' },
           { 
             type: 'docSidebar',
