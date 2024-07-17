@@ -106,7 +106,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'guide',
             position: 'left',
-            label: 'Guide débutant',
+            label: 'Guide',
           },
           { to: 'event', label: 'Evénements', position: 'left' },
           { 
