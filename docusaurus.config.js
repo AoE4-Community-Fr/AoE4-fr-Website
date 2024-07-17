@@ -138,10 +138,10 @@ const config = {
                 label: 'Dernier patch note',
                 to: '/patch',
               },
-              /*{
+              {
                 label: 'Guide pour débutant',
                 to: '/docs/guide/introduction',
-              },*/
+              },
             ],
           },
           {

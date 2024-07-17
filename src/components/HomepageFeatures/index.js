@@ -5,25 +5,35 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
-    title: 'Le patch note de la saison 8',
-    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/07/S8_Update_Banner-1-1080x608.webp',
+    title: 'Master of Realm',
+    img: '/img/organisations/hag/MOR_WEEKEND_2.png',
     description: (
       <>
-        Retrouvez toutes les nouveautés de la saison 8!
+        Retrouvez les qualifacations pour le tournoi S-tier casté en français par HAG
       </>
     ),
-    url: '/patch/update-11.0.782',
+    url: '/event/master-of-realms',
   },
   {
-    title: 'Un coup d\'œil sur le programme de HAG',
-    img: '/img/organisations/hag/Teasing_3_events.png',
+    title: 'Nouveau patch',
+    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Patch-1920x1080-1-1080x608.webp',
     description: (
       <>
-        Teasing de ce qui se prépare au mois de juin et de juillet
+        Un nouveau correctif est sorti résolvant des bugs et des correction d'équilibrage.
       </>
     ),
-    url: '/event/anonce-hag-event-juin-juillet',
-  }
+    url: '/patch/patch-10.1.48',
+  },
+  {
+    title: 'Mise à jour de la saison 7',
+    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Spring-Tournies-Update-1920x1080-1-1080x608.webp',
+    description: (
+      <>
+        Le patch de la saison 7 est sorti avec du nouveau contenu et des changements d'équilibrage
+      </>
+    ),
+    url: '/patch/update-10.0.576',
+  },
 ];
 
 function News({ img, title, description, url }) {
