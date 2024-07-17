@@ -15,7 +15,7 @@ Vous aurez continuellement de nouveaux villageois, mais vous allez aussi devoir 
 
 [image]
 
-De plus vous devez aussi éviter que vos villagois soit innactif aussi dit **idle**, quand ils ont terminés de collecter une ressource par exemple, ou bien si ils sont attaqués par des forces adverses, ce qui conduit au derniers point
+De plus vous devez aussi éviter que vos villageois soit innactif aussi dit **idle**, quand ils ont terminés de collecter une ressource par exemple, ou bien si ils sont attaqués par des forces adverses, ce qui conduit au derniers point
 
 ## Gerer les attaques
 
@@ -23,7 +23,7 @@ Ont as vite tendance à paniquer quand on se fait attaquer, mais il faut éviter
 
 [bouton cloche]
 
-Ce bouton paralyse toutes votre économie, et bien que le but quand **on défend** une attaque est de **perdre aucun villageois**, il est préférabe de mettre manuellement vos villagois en garnisons en les déplacent à l'opposé de la direction des attaquants, de plus il est préférable de ne pas utiliser la touche de mise à l'abri des villageois car il vont se diriger vers l'endroit le plus proche pour se mettre en garnison, quitte à foncer sur les armées adverses.
+Ce bouton paralyse toutes votre économie, et bien que le but quand **on défend** une attaque est de **perdre aucun villageois**, il est préférabe de mettre manuellement vos villageois en garnisons en les déplacent à l'opposé de la direction des attaquants, de plus il est préférable de ne pas utiliser la touche de mise à l'abri des villageois car il vont se diriger vers l'endroit le plus proche pour se mettre en garnison, quitte à foncer sur les armées adverses.
 Et enfin l'interêt de gerer manuellement la retraite de vos villageois, permet de ne retirer que les villageois qui sont menacé, à noter qu'il est préférable de **transferer vos villageois** vers une autre ressource si cela est possible.
 
 ## A retenir
