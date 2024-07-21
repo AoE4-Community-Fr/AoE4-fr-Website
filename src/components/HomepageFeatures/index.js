@@ -13,16 +13,6 @@ const NewsList = [
       </>
     ),
     url: '/patch/update-11.0.782',
-  },
-  {
-    title: 'Un coup d\'œil sur le programme de HAG',
-    img: '/img/organisations/hag/Teasing_3_events.png',
-    description: (
-      <>
-        Teasing de ce qui se prépare au mois de juin et de juillet
-      </>
-    ),
-    url: '/event/anonce-hag-event-juin-juillet',
   }
 ];
 
