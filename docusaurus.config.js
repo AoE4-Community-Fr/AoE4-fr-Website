@@ -158,6 +158,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/AoE4-Community-Fr/AoE4-fr-Website',
               },
+              {
+                label: 'License',
+                href: '/license',
+              }
             ],
           },
         ],
