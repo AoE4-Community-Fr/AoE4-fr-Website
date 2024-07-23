@@ -12,28 +12,8 @@ const NewsList = [
         Retrouvez les qualifacations pour le tournoi S-tier casté en français par HAG
       </>
     ),
-    url: '/event/master-of-realms',
-  },
-  {
-    title: 'Nouveau patch',
-    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Patch-1920x1080-1-1080x608.webp',
-    description: (
-      <>
-        Un nouveau correctif est sorti résolvant des bugs et des correction d'équilibrage.
-      </>
-    ),
-    url: '/patch/patch-10.1.48',
-  },
-  {
-    title: 'Mise à jour de la saison 7',
-    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Spring-Tournies-Update-1920x1080-1-1080x608.webp',
-    description: (
-      <>
-        Le patch de la saison 7 est sorti avec du nouveau contenu et des changements d'équilibrage
-      </>
-    ),
-    url: '/patch/update-10.0.576',
-  },
+    url: '/patch/update-11.0.782',
+  }
 ];
 
 function News({ img, title, description, url }) {
