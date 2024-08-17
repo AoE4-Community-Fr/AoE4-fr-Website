@@ -33,11 +33,9 @@ const Carousel = (props) => {
     return (
         <div className="carousel-container">
             <div className="carousel-wrapper">
-                {/*
                 <button onClick={prev} className="left-arrow">
                     &lt;
                 </button>
-                */}
                 <div className="carousel-content-wrapper">
                     <div
                         className="carousel-content"
@@ -46,11 +44,9 @@ const Carousel = (props) => {
                         {children}
                     </div>
                 </div>
-                {/*
                 <button onClick={next} className="right-arrow">
                     &gt;
                 </button>
-                */}
             </div>
 
         </div>
