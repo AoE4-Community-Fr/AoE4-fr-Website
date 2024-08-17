@@ -5,6 +5,16 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
+    title: 'FFA de conquérant',
+    img: '/img/organisations/hag/FFA_2nd_Edition.png',
+    description: (
+      <>
+        Retrouvez vos 8 champions favoris du FFA dans l'arène dans un combat épique.
+      </>
+    ),
+    url: '/event/FFA-21-08',
+  },
+  {
     title: 'Le patch note de la saison 8',
     img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/07/S8_Update_Banner-1-1080x608.webp',
     description: (
