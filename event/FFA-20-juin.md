@@ -5,6 +5,9 @@ authors: hag
 ---
 
 Retrouvez vos joueurs favoris dans un combat acharné FFA, chacun pour soi sur les maps cachette et migration.
+
+<!-- truncate -->
+
 Vous y retrouverez les braves combattants : 
  * Vanderdorf
  * Jeando

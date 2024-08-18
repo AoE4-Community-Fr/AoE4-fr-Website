@@ -4,9 +4,11 @@ date: 2024-06-29
 description: FFA avec le mod battleground
 ---
 
-Le tournoi se déroule en 2 phases :
+Le tournoi autour du mod Battleground se déroule en 2 phases :
 * **Phase 1** : Qualif - 32 joueurs (BO4), **Samedi 29 juin 22h00** heure de Paris
 * **Phase 2** : Finale - 8 joueurs (BO4), date à déterminer avec les finalistes
+
+<!-- truncate -->
 
 |                  **Infos**                  |       **Cash Prize**      |
 |:-------------------------------------------:|:-------------------------:|

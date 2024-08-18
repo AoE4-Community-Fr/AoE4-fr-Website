@@ -6,6 +6,7 @@ date: 2024-03-19
 
 ![Update-banner](https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Spring-Tournies-Update-1920x1080-1-1080x608.webp)
 
+<!-- truncate -->
 
 Le printemps est enfin là ! Nous lançons la mise à jour de la Saison 7 avec le Cross-Play, qui vous permettra de rejoindre vos amis et adversaires sur console et sur PC sur le champ de bataille, y compris en équipe classée ! Bien sûr, nous faisons également tourner le pool de cartes et proposons de nouveaux événements, des correctifs et des mises à jour d'équilibrage pour que la vie reste intéressante !
 
