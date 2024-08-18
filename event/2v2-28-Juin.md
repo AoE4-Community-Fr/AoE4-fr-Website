@@ -6,6 +6,8 @@ authors: hag
 
 Retrouvez l'équipe de Jeando et Elyona contre Lyralia et Valdemar
 
+<!-- truncate -->
+
 Avec en récompense 50€ pour Elyona ou Valdemar
 
 Retrouvez donc vos champions **Vendredi 28 Juin à 19h30** sur HAGTV : https://www.twitch.tv/HAGTV_Official

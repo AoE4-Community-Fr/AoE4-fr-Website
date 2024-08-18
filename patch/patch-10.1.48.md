@@ -6,6 +6,8 @@ date: 2024-03-27
 
 ![Patch-banner](https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/03/S7-Patch-1920x1080-1-1080x608.webp)
 
+<!-- truncate -->
+
 ## Gameplay
 
 ### Général

@@ -6,6 +6,7 @@ description: Le patch note de la saison 8
 
 ![image](https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/07/S8_Update_Banner-1-1080x608.webp)
 
+<!-- truncate -->
 
 Il est temps de lancer les festivités d'été avec de nombreuses nouvelles récompenses à savourer ! Avant d'aller à la plage et de nous détendre avec notre nouveau look d'été, nous devons nous retrousser les manches et nous mettre au travail, car ces récompenses ne se gagnent pas toutes seules.
 

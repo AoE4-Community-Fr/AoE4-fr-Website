@@ -4,6 +4,10 @@ description: FFA, Showmatch et tournoi
 authors: hag
 ---
 
+![event](/img/organisations/hag/Teasing_3_events.png)
+
+<!-- truncate -->
+
 ## FFA
 Retrouver deux parties Free For All (chacun pour soi) le **20 juin** sur les maps cachette et migration. <br/>
 Le tout bien entendue casté par HAGTV : https://www.twitch.tv/HAGTV_Official
@@ -20,5 +24,3 @@ Et enfin un tournoi **2v2** en **semaine** au programme deux catégories :
   * **Bronze à platine III**
   
 _Aucune date pour le moment_
-
-![event](/img/organisations/hag/Teasing_3_events.png)
