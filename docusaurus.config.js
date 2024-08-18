@@ -141,7 +141,7 @@ const config = {
             items: [
               {
                 label: 'Dernier patch note',
-                to: '/patch',
+                to: '/patch/update-11.0.782',
               },
               {
                 label: 'Guide pour débutant',
