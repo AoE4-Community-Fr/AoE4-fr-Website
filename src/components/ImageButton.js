@@ -1,6 +1,6 @@
 export default function ImageButton ({ logo, name, description, link }) {
 return (
-  <article class="colonne-img-button col col--6 margin-bottom--lg">
+  <article class="colonne-img-button img-button-col col col--6 margin-bottom--lg">
       <a class="card cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module card-img-button"
           href={link}>
           <img decoding="async" loading="lazy" src={logo} alt='logo' className="icone-img-button img_ev3q"></img>
