@@ -89,6 +89,11 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
+      blog: {
+        sidebar: {
+          groupByYear: false,
+        }
+      },
       // Replace with your project's social card
       image: 'img/AoE_share_card.jpg',
       description: 'Le site de la communauté française d\'Age of Empire IV',
