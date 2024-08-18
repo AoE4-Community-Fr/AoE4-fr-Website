@@ -10,7 +10,7 @@ return (
                   {name}
               </h2>
               <p class="text--truncate cardDescription_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module"
-                  title="Créateur de contenu et grand voyageur">
+                  title={description}>
                   {description}
               </p>
           </div>
