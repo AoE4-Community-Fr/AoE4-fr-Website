@@ -135,7 +135,7 @@ const config = {
             items: [
               {
                 label: 'Dernier patch note',
-                to: '/patch/update-11.1.1201',
+                to: '/patch/patch-11.1.1201',
               },
               /*{
                 label: 'Guide pour débutant',

@@ -12,7 +12,7 @@ const NewsList = [
         Retrouvez toutes les nouveautés de mi-saison et le retour des monstres !
       </>
     ),
-    url: '/patch/update-11.1.1201',
+    url: '/patch/patch-11.1.1201',
   },
   {
     title: 'FFA de conquérant',
