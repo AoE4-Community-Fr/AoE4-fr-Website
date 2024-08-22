@@ -148,6 +148,11 @@ h2 {
   color: var(--color-text);
 }
 
+h3, h4 {
+  font-family: maiola, serif;
+  color: var(--color-text);
+}
+
 .breadcrumbs__item,
 .breadcrumbs__link,
 .breadcrumbs__item--active {

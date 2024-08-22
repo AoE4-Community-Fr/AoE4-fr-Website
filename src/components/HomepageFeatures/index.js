@@ -5,6 +5,16 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
+    title: 'Le patch de mi-saison',
+    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/08/Season_Eight_Patch_Banner_1920x1080-1080x608.webp',
+    description: (
+      <>
+        Retrouvez toutes les nouveautés de mi-saison et le retour des monstres !
+      </>
+    ),
+    url: '/patch/patch-11.1.1201',
+  },
+  {
     title: 'FFA de conquérant',
     img: '/img/organisations/hag/FFA_2nd_Edition.png',
     description: (
