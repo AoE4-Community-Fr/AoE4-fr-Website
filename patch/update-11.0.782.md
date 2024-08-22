@@ -2,7 +2,7 @@
 description: Le patch note de la saison 8
 ---
 
-# Saison huit : Update 11.0.782
+# Saison 8 : Update 11.0.782
 
 ![image](https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/07/S8_Update_Banner-1-1080x608.webp)
 
