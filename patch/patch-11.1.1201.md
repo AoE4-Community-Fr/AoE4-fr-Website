@@ -311,8 +311,8 @@ Les changements suivants ne s'appliquent qu'aux versions variantes des civilisat
 * Correction d'un exploit dans lequel le déplacement d'un Atabeg au moment de la garnison pouvait dupliquer l'Atabeg. 
 * Aile économique - Les ressources octroyées par l'industrie augmentent à chaque âge.
   - II. 300<img src="/img/ressource/wood.png" alt="bois" height="15"/> à 350<img src="/img/ressource/wood.png" alt="bois" height="15"/>
-  - III. 1000<img src="/img/ressource/wood.png" alt="bois" height="15"/> à 800<img src="/img/ressource/wood.png" alt="bois" height="15"/>/400s
-  - IV. 2500<img src="/img/ressource/wood.png" alt="bois" height="15"/> à 2000<img src="/img/ressource/wood.png" alt="bois" height="15"/>/900s
+  - III. 1000<img src="/img/ressource/wood.png" alt="bois" height="15"/> à 800<img src="/img/ressource/wood.png" alt="bois" height="15"/>/400<img src="/img/ressource/stone.png" alt="pierre" height="15"/>
+  - IV. 2500<img src="/img/ressource/wood.png" alt="bois" height="15"/> à 2000<img src="/img/ressource/wood.png" alt="bois" height="15"/>/900<img src="/img/ressource/stone.png" alt="pierre" height="15"/>
 * Aile commerciale - Conseillers : Le coût de pop des Atabegs est passé de 1 → 0 
 * Aile culturelle - Logistique :  
   - L'aura de guérison est désormais activée en permanence avec tous les âges au lieu d'être activée uniquement avec l'âge IV. 
