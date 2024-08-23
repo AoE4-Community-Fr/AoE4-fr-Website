@@ -253,7 +253,7 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
 ### Maliens
 
 * Commandement de Farima : 
-        Coût réduit de 650g/350<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 90 secondes à 500g/250<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 60 secondes. 
+        Coût réduit de 650<img src="/img/ressource/gold.png" alt="or" height="15"/>/350<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 90 secondes à 500g/250<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 60 secondes. 
 * Connaissance locale : 
   - Technologie retravaillée, nouvel effet : les guerriers et artilleurs Musofadi gagnent +5 points de vie sur les coups pendant 5 secondes après être sortis de la discrétion. 
   - Déplacement de l'âge des châteaux à l'âge féodal. 
@@ -263,7 +263,7 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
   - La description du festival de production a été ajustée pour refléter correctement le fait qu'il s'applique à toutes les unités, et pas seulement aux unités militaires. 
   - Toutes les durées de festival sont passées de 60 à 90, les temps de recharge sont toujours de 30 secondes. 
 * Le Fort de la chasseresse tire désormais des flèches empoisonnées au lieu des flèches normales des donjons et garnisons. 
-* Le coût du centre ville malien est passé de 400<img src="/img/ressource/wood.png" alt="bois" height="15"/>/350s à 400<img src="/img/ressource/wood.png" alt="bois" height="15"/>/450<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
+* Le coût du centre ville malien est passé de 400<img src="/img/ressource/wood.png" alt="bois" height="15"/>/350<img src="/img/ressource/stone.png" alt="pierre" height="15"/> à 400<img src="/img/ressource/wood.png" alt="bois" height="15"/>/450<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
 
 ### Mongoles
 
