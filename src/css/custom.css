@@ -275,6 +275,12 @@ h3, h4 {
   position: absolute;
 }
 
+.center_item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 @media (max-width:1500px) {
   .img-button-col {
       --ifm-col-width: 100%;

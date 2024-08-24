@@ -123,7 +123,7 @@ De plus, pour toutes les civilisations, la fonctionnalité des éclaireurs profe
   - Les instances de moutons ont été augmentées sur plusieurs cartes classées en solo, tandis que le nombre de moutons par instance a diminué. Ce changement vise à répartir les moutons sur la carte de manière plus cohérente et à réduire le nombre de cas où tous les moutons se regroupent autour d'une même zone, laissant d'autres zones complètement vides. Cette modification augmente également légèrement le nombre total de moutons sur chacune des cartes concernées. 
   - Cartes concernées (1v1)
     + Quatre lacs 
-    + Colline et Dale 
+    + Colline et Vallée 
     + Lipanie 
     + La Fosse 
     + Rivière Rocky 
