@@ -253,7 +253,7 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
 ### Maliens
 
 * Commandement de Farima : 
-        Coût réduit de 650<img src="/img/ressource/gold.png" alt="or" height="15"/>/350<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 90 secondes à 500g/250<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 60 secondes. 
+        Coût réduit de 650<img src="/img/ressource/gold.png" alt="or" height="15"/>/350<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 90 secondes à 500<img src="/img/ressource/gold.png" alt="or" height="15"/>/250<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 60 secondes. 
 * Connaissance locale : 
   - Technologie retravaillée, nouvel effet : les guerriers et artilleurs Musofadi gagnent +5 points de vie sur les coups pendant 5 secondes après être sortis de la discrétion. 
   - Déplacement de l'âge des châteaux à l'âge féodal. 
