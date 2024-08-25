@@ -126,7 +126,7 @@ De plus, pour toutes les civilisations, la fonctionnalité des éclaireurs profe
     + Colline et Vallée 
     + Lipanie 
     + La Fosse 
-    + Rivière Rocky 
+    + Rivière Rocheuse 
 
 :::info[Note du développeur]
 Nous nous efforcerons d'améliorer encore la distribution des moutons et de mettre en œuvre ou de corriger ces changements en fonction de nos observations et des commentaires fournis par la communauté.
@@ -174,7 +174,7 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
 * Inverssement du Grand Bazar et des Caravanes Blindées. 
 * L'armure des caravanes blindées sur les unités commerciales est réduite de +5/5 à +3/3. 
   - Le coût des caravanes blindées est passé de 75<img src="/img/ressource/wood.png" alt="bois" height="15"/>/200<img src="/img/ressource/gold.png" alt="or" height="15"/> à 25<img src="/img/ressource/wood.png" alt="bois" height="15"/>/75<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
-* Ajout d'une nouvelle technologie à l'aile Culture : « Bibliothèques publiques », qui ajoute 2 HP à tous les villageois et commerçants pour chaque amélioration écologique recherchée. 
+* Ajout d'une nouvelle technologie à l'aile Culture : « Bibliothèques publiques », qui ajoute 2 HP à tous les villageois et commerçants pour chaque amélioration économique recherchée. 
 * La technologie de prosélytisme est déplacée dans la Mosquée. 
 * Archer sur chameau 
   - La santé des féodaux passe de 140 à 150 pv. 
@@ -237,7 +237,7 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
 
 ### Japonais
 
-* Le coût de Tatara est réduit de 25s/75<img src="/img/ressource/gold.png" alt="or" height="15"/> à 25s/50<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
+* Le coût de Tatara est réduit de 25<img src="/img/ressource/stone.png" alt="pierre" height="15"/>/75<img src="/img/ressource/gold.png" alt="or" height="15"/> à 25<img src="/img/ressource/stone.png" alt="pierre" height="15"/>/50<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
 * Commune de Koka : Le coût de Shinobi est réduit de 60<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/60<img src="/img/ressource/gold.png" alt="or" height="15"/> & 22,5 secondes à 50<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/50<img src="/img/ressource/gold.png" alt="or" height="15"/> & 20 secondes. 
 * Temple de l'égalité : 
   - Le coût des moines bouddhistes est réduit de 100 à 80 or. 
