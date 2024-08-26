@@ -12,7 +12,7 @@ Le tournoi autour du mod Battleground se déroule en 2 phases :
 
 |                  **Infos**                  |       **Cash Prize**      |
 |:-------------------------------------------:|:-------------------------:|
-| **Jeu** : Age of Empire IV                  | **Methode**: Cadeau steam |
+| **Jeu** : Age of Empires IV                  | **Methode**: Cadeau steam |
 | **Mod** : AoE Battlegrounds                 | **Total**: 100$           |
 | **Format** : Chacun pour soi                | **1er**: 60$              |
 | **Phases** : 2 ( Qualif et Finale )         | **2ième**: 30$            |
