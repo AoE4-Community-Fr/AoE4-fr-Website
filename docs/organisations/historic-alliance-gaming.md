@@ -1,6 +1,6 @@
 ---
 title: Historic Alliance Gaming
-description: Association e-sport autour de Âge of Empire IV
+description: Association e-sport autour de Âge of Empires IV
 sidebar_position: 1
 ---
 

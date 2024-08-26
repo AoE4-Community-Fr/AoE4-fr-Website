@@ -8,8 +8,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Age of Empire IV : Communauté Française',
-  tagline: 'Le site d\'actu sur Age of Empire IV en français',
+  title: 'Age of Empires IV : Communauté Française',
+  tagline: 'Le site d\'actu sur Age of Empires IV en français',
   favicon: 'img/AoE4.ico',
 
   // Set the production url of your site here
@@ -96,7 +96,7 @@ const config = {
       },
       // Replace with your project's social card
       image: 'img/AoE_share_card.jpg',
-      description: 'Le site de la communauté française d\'Age of Empire IV',
+      description: 'Le site de la communauté française d\'Age of Empires IV',
       navbar: {
         title: 'AoE IV : France',
         logo: {
