@@ -1,7 +1,7 @@
 export default function YoutubeVideo ({ link }) {
   let new_link = link.replace("https://youtu.be/", "https://www.youtube.com/embed/")
   return (
-    <div class="video-responsive">
+    <div className="video-responsive">
       <iframe 
         width="560" 
         height="315" 
