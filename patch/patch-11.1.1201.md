@@ -173,14 +173,14 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
 * La remise sur le Croissant fertile est passée de 30% à 35 %.  
 * Inverssement du Grand Bazar et des Caravanes Blindées. 
 * L'armure des caravanes blindées sur les unités commerciales est réduite de +5/5 à +3/3. 
-  - Le coût des caravanes blindées est passé de 75<img src="/img/ressource/wood.png" alt="bois" height="15"/>/200<img src="/img/ressource/gold.png" alt="or" height="15"/> à 25<img src="/img/ressource/wood.png" alt="bois" height="15"/>/75<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
+  - Le coût des caravanes blindées est passé de 75 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 200 <img src="/img/ressource/gold.png" alt="or" height="15"/> à 25 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 75 <img src="/img/ressource/gold.png" alt="or" height="15"/>. 
 * Ajout d'une nouvelle technologie à l'aile Culture : « Bibliothèques publiques », qui ajoute 2 HP à tous les villageois et commerçants pour chaque amélioration économique recherchée. 
 * La technologie de prosélytisme est déplacée dans la Mosquée. 
 * Archer sur chameau 
   - La santé des féodaux passe de 140 à 150 pv. 
-  - La santé des vétérans passe de 170 à 175 ch. 
+  - La santé des vétérans passe de 170 à 175 pv. 
 * Chameliers
-  - Le coût passe de 160<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/30<img src="/img/ressource/wood.png" alt="bois" height="15"/>/30<img src="/img/ressource/gold.png" alt="or" height="15"/> à 130<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/45<img src="/img/ressource/wood.png" alt="bois" height="15"/>/45<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
+  - Le coût passe de 160 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 30 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 30 <img src="/img/ressource/gold.png" alt="or" height="15"/> à 130 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 45 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 45 <img src="/img/ressource/gold.png" alt="or" height="15"/>. 
 
 ### Byzantins
 
@@ -188,13 +188,13 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
 * Citerne de la première colline : Le nombre de flacons de départ passe de 2 à 6. 
 * La vitesse de déplacement des cataphractes est passée à celle des chevaliers (1,5 à 1,62). 
   - Mise à jour de la description pour indiquer correctement 12 points de dégâts de piétinement.
-* Colonies frontalières : Le coût passe de 25<img src="/img/ressource/wood.png" alt="bois" height="15"/>/50<img src="/img/ressource/gold.png" alt="or" height="15"/> à 40<img src="/img/ressource/wood.png" alt="bois" height="15"/>/80<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
+* Colonies frontalières : Le coût passe de 25 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 50 <img src="/img/ressource/gold.png" alt="or" height="15"/> à 40 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 80 <img src="/img/ressource/gold.png" alt="or" height="15"/>. 
 
 ### Chinois
 
 * Le bonus de santé de la Dynastie Ming est passé de 10 % à 15 %. 
 
-* Correction du bug de la vitesse de recharge de l'attaque Bombe à tonnerre Nid d'abeilles, qui passe de 4,5 à 6,5 secondes entre les attaques. 
+* Correction du bug de la vitesse de recharge de l'attaque des Nid d'abeilles, 6,5 secondes à 4,5 secondes entre les attaques. 
 
 * Matériaux supplémentaires
   - Le texte descriptif décrit désormais correctement l'effet de « ...réparer tous les murs proches pour 20 points de vie par seconde ». 
@@ -215,7 +215,7 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
   - Technologie supprimée : Tours de guet. 
   - Désormais, elle fournit également de l'influence aux mosquées (notamment à elle-même). 
 
-* Les points de vie des raiders ghazi sont réduits de 140 à 135 à l'âge féodal. Les âges suivants ne sont pas affectés.  
+* Les points de vie des pilleurs ghazi sont réduits de 140 à 135 à l'âge féodal. Les âges suivants ne sont pas affectés.  
 * Éléphant de guerre : L'attaque de trompe inflige désormais des dégâts dans une zone. 
 
 ### Anglais
@@ -237,15 +237,15 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
 
 ### Japonais
 
-* Le coût de Tatara est réduit de 25<img src="/img/ressource/stone.png" alt="pierre" height="15"/>/75<img src="/img/ressource/gold.png" alt="or" height="15"/> à 25<img src="/img/ressource/stone.png" alt="pierre" height="15"/>/50<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
-* Commune de Koka : Le coût de Shinobi est réduit de 60<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/60<img src="/img/ressource/gold.png" alt="or" height="15"/> & 22,5 secondes à 50<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/50<img src="/img/ressource/gold.png" alt="or" height="15"/> & 20 secondes. 
+* Le coût de Tatara est réduit de 25 <img src="/img/ressource/stone.png" alt="pierre" height="15"/>/ 75 <img src="/img/ressource/gold.png" alt="or" height="15"/> à 25 <img src="/img/ressource/stone.png" alt="pierre" height="15"/>/ 50 <img src="/img/ressource/gold.png" alt="or" height="15"/>. 
+* Commune de Koka : Le coût de Shinobi est réduit de 60 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 60 <img src="/img/ressource/gold.png" alt="or" height="15"/> & 22,5 secondes à 50 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 50 <img src="/img/ressource/gold.png" alt="or" height="15"/> & 20 secondes. 
 * Temple de l'égalité : 
   - Le coût des moines bouddhistes est réduit de 100 à 80 or. 
-  - Le coût du Zen passe de 300<img src="/img/ressource/wood.png" alt="bois" height="15"/>/200<img src="/img/ressource/food.png" alt="nourriture" height="15"/> à 200<img src="/img/ressource/wood.png" alt="bois" height="15"/>/100f. 
+  - Le coût du Zen passe de 300 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 200 <img src="/img/ressource/food.png" alt="nourriture" height="15"/> à 200 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 100 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>. 
   - Le temps de recherche est réduit de 35 à 30 secondes. 
 * Porte flottante : 
   - Vitesse de production de Yorishiro réduite de 200% à 150%. 
-  - Revenu en or de Yorishiro de 75<img src="/img/ressource/gold.png" alt="or" height="15"/>/min à 60<img src="/img/ressource/gold.png" alt="or" height="15"/>/min. 
+  - Revenu en or de Yorishiro de 75 <img src="/img/ressource/gold.png" alt="or" height="15"/>/min à 60 <img src="/img/ressource/gold.png" alt="or" height="15"/>/min. 
   - Le bonus de production de Yorishiro sur les centres villes passe de 25% à 30%.
   - Correction d'un problème qui faisait que les descriptions de Yorishiro affichaient des valeurs de vitesse de production incorrectes. 
   - Le coût d'amélioration du manoir de Daimyo a été réduit de 300 à 225 pierres. 
@@ -253,17 +253,17 @@ Nous nous efforcerons d'améliorer encore la distribution des moutons et de mett
 ### Maliens
 
 * Commandement de Farima : 
-        Coût réduit de 650<img src="/img/ressource/gold.png" alt="or" height="15"/>/350<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 90 secondes à 500<img src="/img/ressource/gold.png" alt="or" height="15"/>/250<img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 60 secondes. 
+        Coût réduit de 650 <img src="/img/ressource/gold.png" alt="or" height="15"/>/ 350 <img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 90 secondes à 500 <img src="/img/ressource/gold.png" alt="or" height="15"/>/ 250 <img src="/img/ressource/food.png" alt="nourriture" height="15"/> & 60 secondes. 
 * Connaissance locale : 
   - Technologie retravaillée, nouvel effet : les guerriers et artilleurs Musofadi gagnent +5 points de vie sur les coups pendant 5 secondes après être sortis de la discrétion. 
   - Déplacement de l'âge des châteaux à l'âge féodal. 
-  - Coût réduit de 100<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/250<img src="/img/ressource/gold.png" alt="or" height="15"/> & 60 secondes à 75<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/200<img src="/img/ressource/gold.png" alt="or" height="15"/> & 30 secondes. 
+  - Coût réduit de 100 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 250 <img src="/img/ressource/gold.png" alt="or" height="15"/> & 60 secondes à 75 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 200 <img src="/img/ressource/gold.png" alt="or" height="15"/> & 30 secondes. 
 * Griot Bara : 
   - La vitesse de production du festival de production est passée de 50 % à 100 %. 
   - La description du festival de production a été ajustée pour refléter correctement le fait qu'il s'applique à toutes les unités, et pas seulement aux unités militaires. 
   - Toutes les durées de festival sont passées de 60 à 90, les temps de recharge sont toujours de 30 secondes. 
 * Le Fort de la chasseresse tire désormais des flèches empoisonnées au lieu des flèches normales des donjons et garnisons. 
-* Le coût du centre ville malien est passé de 400<img src="/img/ressource/wood.png" alt="bois" height="15"/>/350<img src="/img/ressource/stone.png" alt="pierre" height="15"/> à 400<img src="/img/ressource/wood.png" alt="bois" height="15"/>/450<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
+* Le coût du centre ville malien est passé de 400 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 350 <img src="/img/ressource/stone.png" alt="pierre" height="15"/> à 400 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 450 <img src="/img/ressource/gold.png" alt="or" height="15"/>. 
 
 ### Mongoles
 
@@ -310,9 +310,9 @@ Les changements suivants ne s'appliquent qu'aux versions variantes des civilisat
 
 * Correction d'un exploit dans lequel le déplacement d'un Atabeg au moment de la garnison pouvait dupliquer l'Atabeg. 
 * Aile économique - Les ressources octroyées par l'industrie augmentent à chaque âge.
-  - II. 300<img src="/img/ressource/wood.png" alt="bois" height="15"/> à 350<img src="/img/ressource/wood.png" alt="bois" height="15"/>
-  - III. 1000<img src="/img/ressource/wood.png" alt="bois" height="15"/> à 800<img src="/img/ressource/wood.png" alt="bois" height="15"/>/400<img src="/img/ressource/stone.png" alt="pierre" height="15"/>
-  - IV. 2500<img src="/img/ressource/wood.png" alt="bois" height="15"/> à 2000<img src="/img/ressource/wood.png" alt="bois" height="15"/>/900<img src="/img/ressource/stone.png" alt="pierre" height="15"/>
+  - II. 300 <img src="/img/ressource/wood.png" alt="bois" height="15"/> à 350 <img src="/img/ressource/wood.png" alt="bois" height="15"/>
+  - III. 1000 <img src="/img/ressource/wood.png" alt="bois" height="15"/> à 800 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 400 <img src="/img/ressource/stone.png" alt="pierre" height="15"/>
+  - IV. 2500 <img src="/img/ressource/wood.png" alt="bois" height="15"/> à 2000 <img src="/img/ressource/wood.png" alt="bois" height="15"/>/ 900 <img src="/img/ressource/stone.png" alt="pierre" height="15"/>
 * Aile commerciale - Conseillers : Le coût de pop des Atabegs est passé de 1 → 0 
 * Aile culturelle - Logistique :  
   - L'aura de guérison est désormais activée en permanence avec tous les âges au lieu d'être activée uniquement avec l'âge IV. 
@@ -322,7 +322,7 @@ Les changements suivants ne s'appliquent qu'aux versions variantes des civilisat
   - Les points de vie des bedouins à l'épée passent de 140 à 155, les dégâts de 9 à 10 (les dégâts bonus restent inchangés). 
   - Les unités ne sont plus bloquées dans la file d'attente lorsque l'on est en train de passer à l'âge supérieur. 
 * Le bonus de temps de recherche de l'âge d'or de niveau 2 est passé de 50 % à 25 %. 
-* Le coût du derviche passe de 60<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/120<img src="/img/ressource/gold.png" alt="or" height="15"/> à 60<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/140<img src="/img/ressource/gold.png" alt="or" height="15"/>. 
+* Le coût du derviche passe de 60 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 120 <img src="/img/ressource/gold.png" alt="or" height="15"/> à 60 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 140 <img src="/img/ressource/gold.png" alt="or" height="15"/>. 
 
 ### Jeanne d'Arc
 
@@ -330,7 +330,7 @@ Les changements suivants ne s'appliquent qu'aux versions variantes des civilisat
 
 * Le bonus de réduction des technologies économiques passe de 30 à 35%. 
 * Les comptoirs commerciaux sont entièrement révélés au début de la partie et non plus seulement sur la minimap. 
-* Chambre de commerce : Formation des commerçants libres 100% plus rapide (30s à 15s). 
+* Chambre de commerce : Formation des commerçants gratuits 100% plus rapide (30s à 15s). 
 
 ### Ordre du dragon
 
@@ -344,7 +344,7 @@ Les changements suivants ne s'appliquent qu'aux versions variantes des civilisat
 (Civilisation variante: Chinois)
 
 * Correction d'un problème où la Dynastie Yuan n'affectait pas les béliers de l'Atelier de siège. 
-* Académie du Mont Lu : Le coût des Sceaux rouges impériaux est passé de 200<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/400<img src="/img/ressource/gold.png" alt="or" height="15"/> & 90 secondes à 100<img src="/img/ressource/food.png" alt="nourriture" height="15"/>/200<img src="/img/ressource/gold.png" alt="or" height="15"/> & 45 secondes. 
+* Académie du Mont Lu : Le coût des Sceaux rouges impériaux est passé de 200 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 400 <img src="/img/ressource/gold.png" alt="or" height="15"/> & 90 secondes à 100 <img src="/img/ressource/food.png" alt="nourriture" height="15"/>/ 200 <img src="/img/ressource/gold.png" alt="or" height="15"/> & 45 secondes. 
 * Bibliothèque de Zhu Xi : Réduction du temps de recherche de toutes les technologies à 30s. 
   - Rugissement du dragon : Augmentation des seuils de zone d'effet à 0,25/0,5/1. 
 * Les points de vie du Garde du palais (II) passent de 120 à 130. 
