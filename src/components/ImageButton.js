@@ -16,6 +16,6 @@ return (
                   {description}
               </p>
           </div>
-      </a>
+      </Link>
   </article>
 )};
