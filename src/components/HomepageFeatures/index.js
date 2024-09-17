@@ -5,6 +5,16 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
+    title: 'Le patch de la saison 9 preview',
+    img: 'https://cdn.discordapp.com/attachments/585568729333760002/1285630704457351218/S8_PUP_1920x1080.png?ex=66eaf865&is=66e9a6e5&hm=3d9d2e03990ea6bd09ee5c44bd4d33cbd96d21549a812be6e8aad462a8eb0af3&',
+    description: (
+      <>
+        Retrouvez toutes les nouveautés de la saison 9!
+      </>
+    ),
+    url: '/patch/public-update-preview-s9',
+  },
+  {
     title: 'Le patch de mi-saison',
     img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/08/Season_Eight_Patch_Banner_1920x1080-1080x608.webp',
     description: (
@@ -24,16 +34,6 @@ const NewsList = [
     ),
     url: '/event/FFA-21-08',
   },
-  {
-    title: 'Le patch note de la saison 8',
-    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/07/S8_Update_Banner-1-1080x608.webp',
-    description: (
-      <>
-        Retrouvez toutes les nouveautés de la saison 8!
-      </>
-    ),
-    url: '/patch/update-11.0.782',
-  }
 ];
 
 function News({ img, title, description, url }) {
