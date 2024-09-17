@@ -1,3 +1,7 @@
+---
+description: La PUP est là découvrez là en détail
+---
+
 # Preview de la Saison 9
 
 ![image bannière](https://cdn.discordapp.com/attachments/585568729333760002/1285630704457351218/S8_PUP_1920x1080.png?ex=66eaf865&is=66e9a6e5&hm=3d9d2e03990ea6bd09ee5c44bd4d33cbd96d21549a812be6e8aad462a8eb0af3&)
