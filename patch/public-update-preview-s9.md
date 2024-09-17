@@ -21,7 +21,7 @@ Cette fonctionnalité est encore en cours de développement ; il est donc possib
 :::
 
 ## Cartes
-Deux nouvelles cartes passionnantes ont été ajoutées : 
+Deux nouvelles cartes passionnantes ont été ajoutées :
 
 * Atacama : Même les chefs de guerre les plus puissants seront mis à l'épreuve par les conditions difficiles et exposées du désert d'Atacama.
 
@@ -32,7 +32,7 @@ Deux nouvelles cartes passionnantes ont été ajoutées :
 * Correction d'un problème à cause duquel les Trébuchets anglais attaquaient plus lentement après la recherche de la technologie des projectiles dispersés.
 * Correction d'un problème qui faisait que l'entrepôt japonais de Kura était sélectionné avec le raccourci « Sélectionner tous les avant-postes ».
 * Les aqueducs byzantins n'ont plus la capacité « convertir en porte de palissade » lorsqu'ils sont en construction.
-* L'indicateur de population ne change plus pendant une seule image lors de la construction d'un siège sur le terrain avec de l'infanterie. 
+* L'indicateur de population ne change plus pendant une seule image lors de la construction d'un siège sur le terrain avec de l'infanterie.
 * Correction d'un exploit pour Rus où l'or des mines d'or pouvait être converti en prime.
 * La prime est affichée sur l'interface utilisateur du villageois avec une icône différente.
 * Les fonctionnaires impériaux chinois n'annulent plus les commandes des joueurs qui sont émises exactement à la première image après que le fonctionnaire ait choisi automatiquement un dépôt de taxe, alors qu'il est en état d'inactivité et que sa capacité de taxation est maximale.
@@ -52,7 +52,7 @@ Les projectiles des flèches ont été mis à jour pour avoir des trajectoires p
 
 ### Nouveaux graphiques post-jeu ajoutés :
 
-Inclut : Total des ressources collectées, Total de la nourriture collectée, Total du bois collecté, Total de l'or collecté et Total des pierres collectées. 
+Inclut : Total des ressources collectées, Total de la nourriture collectée, Total du bois collecté, Total de l'or collecté et Total des pierres collectées.
 
 
 ### Pause multijoueur :
@@ -77,7 +77,7 @@ Notre objectif avec la mise à jour de siège est de ralentir le combat siège c
     - Les Béliers et tours de siège réduisent les dégâts distants de 95 %.
     - Les bombardes, canons et coulevrines réduisent les dégâts distants de 85 %.
     - Les trébuchets réduisent les dégâts ditants de 80 %.
-    - Les mangonneaux et les nids d'abeilles réduisent les dégâts distant de 75%. 
+    - Les mangonneaux et les nids d'abeilles réduisent les dégâts distant de 75%.
     - Les espringales réduisent les dégâts à distance entrants de 60%.
     - Les ribauldequins réduisent les dégâts à distance entrants de 35%.
 
@@ -101,7 +101,7 @@ Unité retravaillée en une bombarde de remplacement unique pour plusieurs civil
 * Les dégâts de base sont réduits de 85 à 40.
 * Gagne +230 points de dégâts bonus contre les bâtiments et les navires.
 * Gain de +40 points de dégâts bonus contre l'infanterie.
-* Suppression du bonus de dégâts contre le siège. 
+* Suppression du bonus de dégâts contre le siège.
 * Temps de recharge augmenté (vitesse d'attaque réduite) de 3,375 à 3,625 .
 * Portée réduite de 12 à 11.
 * Remplace désormais entièrement les bombardes pour **le Saint Empire romain germanique, l'Ordre du dragon, la dynastie abbasside et les Ayyubides.**
@@ -135,7 +135,7 @@ Santé réduite de 125 à 75.
 * Portée réduite de 10 à 8.
 * Coût en population réduit de 3 à 2.
 * Tire des carreaux qui transpercent plusieurs unités.
-* Ne dispose plus de projectiles à tête chercheuse. 
+* Ne dispose plus de projectiles à tête chercheuse.
 
 
 ### Technologie gachette à clapet roullants
@@ -334,7 +334,7 @@ Le siège à la poudre à canon inflige principalement des dégâts à des cible
     - L'effet de la relique en garnison est réduit de 50 % à 25 % d'armure et de 35 % à 25 % de dégâts.
 * Défenses renforcées réduites de +40% de santé à +25%.
 * La réduction sur les emplacements défensive passe de 25 % à 20%.
-* L'armure à distance du centre ville est réduite de 75 à 50. 
+* L'armure à distance du centre ville est réduite de 75 à 50.
 * Portée de la chapelle d'Aix-la-Chapelle réduite de 7,5 à 6,5.
 
 ### Japonais
@@ -359,8 +359,8 @@ Ceci est pour garder l'échelle de la nourriture japonaise en accord avec les au
 
         + Mansa Musofadi : une version plus résistante du Musofadi normal, dotée d'une meilleure armure de mêlée et d'une meilleure santé.
         + Mansa javelinier : un lanceur de javelots qui se déplace plus rapidement et qui inflige des dégâts de poison.
-        + Mansa Franc-tirreur : une unité de mêlée à l'armure très résistante. 
-        
+        + Mansa Franc-tirreur : une unité de mêlée à l'armure très résistante.
+
     - Le Mansa Musofadi et le Mansa javelinier remplacent leurs homologues dans leurs bâtiments respectifs, tandis que le Mansa franc-tireur est une nouvelle unité qui peut être entraînée dans les casernes.
     - Les joueurs peuvent choisir une autre des deux options restantes s'ils atteignent l'âge impérial.
 * Réseau commercial saharien :
@@ -374,7 +374,7 @@ Ceci est pour garder l'échelle de la nourriture japonaise en accord avec les au
 * Effet des reliques en garnisons réduit de 50% → 25% d'armure et 35% → 25% de dégâts.
 * Effet des défenses renforcées réduit de +40% → +25% de points de vie.
 * Réduction de 25% → 20% de la remise sur les emplacements d'armes .
-* Armure à distance du centre ville réduite de 75 → 50. 
+* Armure à distance du centre ville réduite de 75 → 50.
 * Portée de la chapelle d'Aix-la-Chapelle réduite de 7,5 → 6,5.
 * Tous les dégâts de torche de l'âge du château des unités dorées sont augmentés de 24 → 25, les dégâts de torche de l'âge impérial sont augmentés de 28 → 30.
 
@@ -382,7 +382,7 @@ Ceci est pour garder l'échelle de la nourriture japonaise en accord avec les au
 
 * L'effet des canons janissaires passe de +3 → +5 points de dégâts.
 #### Conseil impérial
-* Entraînement rapide a été supprimé et son effet de +25 % de vitesse de production a été ajouté à Académie avancée. 
+* Entraînement rapide a été supprimé et son effet de +25 % de vitesse de production a été ajouté à Académie avancée.
 * Quatre nouvelles améliorations du Conseil impérial sont disponibles :
     - Fortifications étendues (niveau 2) : Toutes les flèches de garnison sont remplacées par des carreaux d'arbalète, qui infligent un bonus de +2 aux dégâts contre les unités lourdes.
     - Timariots ( Tier 2 ) : Permet d'entraîner les archers de cavalerie à partir du champ de tir et de l'école militaire.
@@ -416,7 +416,7 @@ Suite à ces changements, les Janissaires ne recevront que les dégâts bonus de
 
 ### Zhu Xi
 
-* Nouvelle technologie - Chevaux de Dali : Toute la cavalerie gagne +20% de vitesse d'attaque. 75 nourriture 175 or, 45 secondes. 
+* Nouvelle technologie - Chevaux de Dali : Toute la cavalerie gagne +20% de vitesse d'attaque. 75 nourriture 175 or, 45 secondes.
     - Disponible à l'âge féodal.
     - Temps de rechargement pour la Garde impériale ajusté de 1,5 → 1,75 secondes.
     - Temps de rechargement pour pilleur Yuan ajusté de 1,5 → 1,62 secondes.
