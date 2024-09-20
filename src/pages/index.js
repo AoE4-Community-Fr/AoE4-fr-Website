@@ -2,7 +2,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import HomepageNews from '@site/src/components/HomepageNews';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -16,7 +16,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons} className="centered-element">
+        <div className={clsx(styles.buttons, 'centered-element')}>
           
           <Link
             className="button button--secondary button--lg"
@@ -39,7 +39,7 @@ export default function Home() {
       description="Le site de la communauté Age of Empires IV France">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <HomepageNews />
       </main>
     </Layout>
   );

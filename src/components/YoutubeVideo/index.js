@@ -1,7 +1,9 @@
+import styles from './styles.module.css'
+
 export default function YoutubeVideo ({ link }) {
   let new_link = link.replace("https://youtu.be/", "https://www.youtube.com/embed/")
   return (
-    <div className="video-responsive">
+    <div className={styles.videoResponsive}>
       <iframe 
         width="560" 
         height="315" 
