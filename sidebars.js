@@ -25,7 +25,7 @@ const sidebars = {
       label: 'Créateurs de contenu',
       link: {
         type: 'doc',
-        id: 'creators/creators',
+        id: 'creators/index',
       },
       items: [
         'creators/zuka',
