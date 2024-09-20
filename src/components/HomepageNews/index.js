@@ -5,6 +5,16 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
+    title: 'Le patch de la saison 9 preview',
+    img: '/img/patch/public-update-preview-s9.png',
+    description: (
+      <>
+        Retrouvez toutes les nouveautés de la saison 9!
+      </>
+    ),
+    url: '/patch/public-update-preview-s9',
+  },
+  {
     title: 'Le patch de mi-saison',
     img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/08/Season_Eight_Patch_Banner_1920x1080-1080x608.webp',
     description: (
@@ -24,36 +34,26 @@ const NewsList = [
     ),
     url: '/event/FFA-21-08',
   },
-  {
-    title: 'Le patch note de la saison 8',
-    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2024/07/S8_Update_Banner-1-1080x608.webp',
-    description: (
-      <>
-        Retrouvez toutes les nouveautés de la saison 8!
-      </>
-    ),
-    url: '/patch/update-11.0.782',
-  }
 ];
 
 function News({ img, title, description, url }) {
   return (
-    <Link className='newsBox' to={url}>
-      <div className='news'>
-        <img src={img} alt="placeholder" className='img-news'/>
-        <div className='text-news'>
+    <Link className={styles.newsBox} to={url}>
+      <article>
+        <img src={img} alt="placeholder" className={styles.imgNews}/>
+        <div className={styles.textNews}>
           <Heading as="h2">{title}</Heading>
-          <p className='subtext-news'>{description}</p>
+          <p className={styles.subtextNews}>{description}</p>
         </div>
-      </div>
+      </article>
     </Link>
   );
 }
 
-export default function HomepageFeatures() {
+export default function HomepageNews() {
   return (
-    <section className={styles.features}>
-      <div style={{ maxWidth: 1200, marginLeft: 'auto', marginRight: 'auto', marginTop: 0, marginBottom: 64 }}>
+    <section className={styles.newsContainers}>
+      <div className={styles.newsList}>
         <Carousel>
           {NewsList.map((props, idx) => (
             <News key={idx} {...props} />
