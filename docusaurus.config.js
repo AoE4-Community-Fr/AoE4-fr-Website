@@ -95,7 +95,7 @@ const config = {
         }
       },
       // Replace with your project's social card
-      image: 'img/AoE_share_card.jpg',
+      image: 'img/aoe_share_card.jpg',
       description: 'Le site de la communauté française d\'Age of Empires IV',
       navbar: {
         title: 'AoE IV : France',
