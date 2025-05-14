@@ -25,7 +25,7 @@ function HomepageHeader() {
 
             {/* <img src="/img/discord-logo.png" alt="Discord" width="50vw" />*/}
             <DiscordLogo />
-            Le discord
+            <b>Le discord</b>
           </Link>
         </div>
       </div>
