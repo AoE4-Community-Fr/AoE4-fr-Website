@@ -6,6 +6,7 @@ import HomepageNews from '@site/src/components/HomepageNews';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import DiscordLogo from '../components/DiscordLogo';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -17,12 +18,13 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={clsx(styles.buttons, 'centered-element')}>
-          
+
           <Link
             className="button button--secondary button--lg"
             to="https://discord.com/invite/56JC8MH7qN">
-            
-            <img src="/img/discord-logo.png" alt="Discord" width="50vw"/>
+
+            {/* <img src="/img/discord-logo.png" alt="Discord" width="50vw" />*/}
+            <DiscordLogo />
             Le discord
           </Link>
         </div>
