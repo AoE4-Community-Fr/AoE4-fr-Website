@@ -5,6 +5,16 @@ import Link from '@docusaurus/Link';
 
 const NewsList = [
   {
+    title: 'Le patch de mi saison 10',
+    img: 'https://cdn.ageofempires.com/aoe/wp-content/uploads/2025/05/RTR_Patch_1920x1080-1813x1020.webp',
+    description: (
+      <>
+        Découvrer les changements de mi-saison 10!
+      </>
+    ),
+    url: '/patch/patch-13.2.4553',
+  },
+  {
     title: 'Le patch de la saison 9 preview',
     img: '/img/patch/public-update-preview-s9.png',
     description: (
@@ -24,23 +34,13 @@ const NewsList = [
     ),
     url: '/patch/patch-11.1.1201',
   },
-  {
-    title: 'FFA de conquérant',
-    img: '/img/organisations/hag/FFA_2nd_Edition.png',
-    description: (
-      <>
-        Retrouvez vos 8 champions favoris du FFA dans l'arène dans un combat épique.
-      </>
-    ),
-    url: '/event/FFA-21-08',
-  },
 ];
 
 function News({ img, title, description, url }) {
   return (
     <Link className={styles.newsBox} to={url}>
       <article>
-        <img src={img} alt="placeholder" className={styles.imgNews}/>
+        <img src={img} alt="placeholder" className={styles.imgNews} />
         <div className={styles.textNews}>
           <Heading as="h2">{title}</Heading>
           <p className={styles.subtextNews}>{description}</p>
