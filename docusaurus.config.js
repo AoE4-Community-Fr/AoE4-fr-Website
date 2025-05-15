@@ -56,7 +56,7 @@ const config = {
         },
       }),
     ],
-    
+
   ],
 
   plugins: [
@@ -108,17 +108,17 @@ const config = {
         items: [
           { to: 'patch', label: 'Patch', position: 'left' },
           { to: 'event', label: 'Evénements', position: 'left' },
-          { 
+          {
             type: 'docSidebar',
-            sidebarId: 'organisations', 
+            sidebarId: 'organisations',
             position: 'left',
-            label: 'Organisations', 
+            label: 'Organisations',
           },
-          { 
+          {
             type: 'docSidebar',
-            sidebarId: 'creators', 
+            sidebarId: 'creators',
             position: 'left',
-            label: 'Créateurs', 
+            label: 'Créateurs',
           },
           {
             href: 'https://discord.com/invite/56JC8MH7qN',
@@ -135,7 +135,7 @@ const config = {
             items: [
               {
                 label: 'Dernier patch note',
-                to: '/patch/patch-11.1.1201',
+                to: 'patch/patch-13.2.4553',
               },
               /*{
                 label: 'Guide pour débutant',
