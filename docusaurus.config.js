@@ -4,79 +4,77 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import { themes as prismThemes } from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Age of Empires IV : Communauté Française',
-  tagline: 'Le site d\'actu sur Age of Empires IV en français',
-  favicon: 'img/AoE4.ico',
+  title: "Age of Empires IV : Communauté Française",
+  tagline: "Le site d'actu sur Age of Empires IV en français",
+  favicon: "img/AoE4.ico",
 
   // Set the production url of your site here
-  url: 'https://aoe4-community-fr.github.io',
+  url: "https://aoe4-community-fr.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'AoE4-Community-Fr', // Usually your GitHub org/user name.
-  projectName: 'AoE4-fr-Website', // Usually your repo name.
+  organizationName: "AoE4-Community-Fr", // Usually your GitHub org/user name.
+  projectName: "AoE4-fr-Website", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn', // 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn", // 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'fr',
-    locales: ['fr'],
+    defaultLocale: "fr",
+    locales: ["fr"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/AoE4-Community-Fr/AoE4-fr-Website/blob/master/',
+          editUrl:
+            "https://github.com/AoE4-Community-Fr/AoE4-fr-Website/blob/master/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/AoE4-Community-Fr/AoE4-fr-Website/blob/master/',
+          editUrl:
+            "https://github.com/AoE4-Community-Fr/AoE4-fr-Website/blob/master/",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
-
   ],
 
   plugins: [
-
     [
-      '@docusaurus/plugin-content-blog',
+      "@docusaurus/plugin-content-blog",
       {
-        id: 'patch',
-        routeBasePath: 'patch',
-        path: './patch/',
-
+        id: "patch",
+        routeBasePath: "patch",
+        path: "./patch/",
       },
     ],
     [
-      '@docusaurus/plugin-content-blog',
+      "@docusaurus/plugin-content-blog",
       {
-        id: 'event',
-        routeBasePath: 'event',
-        path: './event/',
-
+        id: "event",
+        routeBasePath: "event",
+        path: "./event/",
       },
     ],
   ],
@@ -92,50 +90,50 @@ const config = {
       blog: {
         sidebar: {
           groupByYear: false,
-        }
+        },
       },
       // Replace with your project's social card
-      image: 'img/aoe_share_card.jpg',
-      description: 'Le site de la communauté française d\'Age of Empires IV',
+      image: "img/aoe_share_card.jpg",
+      description: "Le site de la communauté française d'Age of Empires IV",
       navbar: {
-        title: 'AoE IV : France',
+        title: "AoE IV : France",
         logo: {
-          alt: 'Logo AoE4',
-          src: 'img/logo.svg',
+          alt: "Logo AoE4",
+          src: "img/logo.svg",
           width: 32,
           height: 32,
         },
         items: [
-          { to: 'patch', label: 'Patch', position: 'left' },
-          { to: 'event', label: 'Evénements', position: 'left' },
+          { to: "patch", label: "Patch", position: "left" },
+          { to: "event", label: "Evénements", position: "left" },
           {
-            type: 'docSidebar',
-            sidebarId: 'organisations',
-            position: 'left',
-            label: 'Organisations',
+            type: "docSidebar",
+            sidebarId: "organisations",
+            position: "left",
+            label: "Organisations",
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'creators',
-            position: 'left',
-            label: 'Créateurs',
+            type: "docSidebar",
+            sidebarId: "creators",
+            position: "left",
+            label: "Créateurs",
           },
           {
-            href: 'https://discord.com/invite/56JC8MH7qN',
-            label: 'Discord',
-            position: 'right',
+            href: "https://discord.com/invite/56JC8MH7qN",
+            label: "Discord",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'light',
+        style: "light",
         links: [
           {
-            title: 'Ressources',
+            title: "Ressources",
             items: [
               {
-                label: 'Dernier patch note',
-                to: 'patch/patch-13.2.4553',
+                label: "Dernier patch note",
+                to: "/patch/update-14.0.4963",
               },
               /*{
                 label: 'Guide pour débutant',
@@ -144,29 +142,29 @@ const config = {
             ],
           },
           {
-            title: 'Communauté',
+            title: "Communauté",
             items: [
               {
-                label: 'Discord',
-                href: 'https://discord.com/invite/56JC8MH7qN',
+                label: "Discord",
+                href: "https://discord.com/invite/56JC8MH7qN",
               },
               {
-                label: 'AoE4 World',
-                href: 'https://aoe4world.com/',
+                label: "AoE4 World",
+                href: "https://aoe4world.com/",
               },
             ],
           },
           {
-            title: 'Plus',
+            title: "Plus",
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/AoE4-Community-Fr/AoE4-fr-Website',
+                label: "GitHub",
+                href: "https://github.com/AoE4-Community-Fr/AoE4-fr-Website",
               },
               {
-                label: 'License',
-                href: '/license',
-              }
+                label: "License",
+                href: "/license",
+              },
             ],
           },
         ],
