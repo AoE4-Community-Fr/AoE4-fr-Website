@@ -18,6 +18,7 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={clsx(styles.buttons, 'centered-element')}>
+
           <Link
             className="button button--secondary button--lg"
             to="https://discord.com/invite/56JC8MH7qN">
