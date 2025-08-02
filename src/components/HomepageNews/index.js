@@ -6,7 +6,7 @@ import Link from "@docusaurus/Link";
 const NewsList = [
     {
         title: "Le patch de mi saison 11",
-        img: "/img/patch/patch-14.1.5602.webp",
+        img: "/img/patch/patch-14.1.5602.png",
         description: <>Découvrer les changements de mi-saison 11!</>,
         url: "/patch/patch-14.1.5602",
     },

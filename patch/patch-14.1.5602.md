@@ -3,7 +3,7 @@ date: 2025-07-22
 ---
 # Patch 14.1.5602
 
-![bannière patch](https://cdn.ageofempires.com/aoe/wp-content/uploads/2025/07/WOC_Patch_1920x1080-1080x608.webp)
+![bannière patch](/img/patch/patch-14.1.5602.png)
 
 <!-- truncate -->
 
