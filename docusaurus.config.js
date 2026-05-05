@@ -111,17 +111,23 @@ const config = {
         items: [
           { to: "patch", label: "Patch", position: "left" },
           { to: "event", label: "Evénements", position: "left" },
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "organisations",
+          //   position: "left",
+          //   label: "Organisations",
+          // },
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "creators",
+          //   position: "left",
+          //   label: "Créateurs",
+          // },
           {
             type: "docSidebar",
-            sidebarId: "organisations",
+            sidebarId: "guide",
             position: "left",
-            label: "Organisations",
-          },
-          {
-            type: "docSidebar",
-            sidebarId: "creators",
-            position: "left",
-            label: "Créateurs",
+            label: "Guide pour débutant",
           },
           {
             href: "https://discord.com/invite/56JC8MH7qN",

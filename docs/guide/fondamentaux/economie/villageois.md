@@ -11,7 +11,7 @@ L'objéctif et de perdre le moins de villageois possible, et d'en produire le pl
 
 ## Utiliser ses villageois
 
-Vous aurez continuellement de nouveaux villageois, mais vous allez aussi devoir les faires continuellements récolter des ressources et donc chacun de leurs déplacements représente une perte économique, vous devez donc limiter leurs déplacements.
+Vous aurez continuellement de nouveaux villageois, mais vous allez aussi devoir les faires continuellements récolter des ressources et donc chacun de leurs déplacements représente une perte économique, vous devez donc limiter leurs déplacements, et rapprocher les points de collecte au plus proche des ressources.
 
 [image]
 
@@ -23,12 +23,12 @@ Ont as vite tendance à paniquer quand on se fait attaquer, mais il faut éviter
 
 [bouton cloche]
 
-Ce bouton paralyse toutes votre économie, et bien que le but quand **on défend** une attaque est de **perdre aucun villageois**, il est préférabe de mettre manuellement vos villageois en garnisons en les déplacent à l'opposé de la direction des attaquants, de plus il est préférable de ne pas utiliser la touche de mise à l'abri des villageois car il vont se diriger vers l'endroit le plus proche pour se mettre en garnison, quitte à foncer sur les armées adverses.
+Ce bouton paralyse toutes votre économie, et bien que le but quand **on défend** une attaque est de **perdre aucun villageois**, il est préférabe de mettre manuellement vos villageois en garnisons en les déplacent à l'opposé de la direction des attaquants, de plus il est aussi préférable de ne pas utiliser la touche de mise à l'abri des villageois car il vont se diriger vers l'endroit le plus proche pour se mettre en garnison, quitte à foncer sur les armées adverses.
 Et enfin l'interêt de gerer manuellement la retraite de vos villageois, permet de ne retirer que les villageois qui sont menacé, à noter qu'il est préférable de **transferer vos villageois** vers une autre ressource si cela est possible.
 
 ## A retenir
 
-* Produire en continu des villageois
-* Limiter le plus possible leurs déplacements
-* Éviter de perdre des villageois
-* Préférer mettre ses villageois manuellement à l'abri
+- Produire en continu des villageois
+- Limiter le plus possible leurs déplacements
+- Éviter de perdre des villageois
+- Préférer mettre ses villageois manuellement à l'abri
